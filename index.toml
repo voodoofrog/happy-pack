@@ -5,10 +5,6 @@ file = "README.md"
 hash = "3724833719d36f4b24fa5cd46b72ee900c05fdaaeaa618efa3a9cc8d68270d64"
 
 [[files]]
-file = "extra/continuity-3.0.0-beta.21.19.3.jar"
-hash = "597b98ec721cd7ea6658c12306a0c434f0fb7153bb9be5a45212b66c52108a1d"
-
-[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "08b01d3d032dd1db4e1ab6b05e7ea72be16b4483665e9314497ac29d3fee4c2a"
 metafile = true
@@ -89,9 +85,24 @@ hash = "fd235eacb6d28aae0ebdfa0de95ac33e4f1a6ec67e16fe8074153665b3b0f55a"
 metafile = true
 
 [[files]]
+file = "mods/clear-skies.pw.toml"
+hash = "38ff1a7b22da871a329ded09c8cba2a80fee81e9b9a742ed02cc730a78ed6e7a"
+metafile = true
+
+[[files]]
+file = "mods/cleardespawn.pw.toml"
+hash = "859393d96436265aa457d9bc06dc144ae1dd8186f157bbaf9b149f83e0808915"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "86498eb7f9326155844799dc57c1372fc5000b86f046994162cccd2e480a96ed"
 metafile = true
+
+[[files]]
+file = "mods/config/customstars.json"
+hash = "ef87db0d367946755bc9666ca3077597b152157534418a2fed52a384f88bc10a"
+preserve = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
@@ -111,6 +122,11 @@ metafile = true
 [[files]]
 file = "mods/cull-less-leaves.pw.toml"
 hash = "18f046ed2181bbfbfb07b1db22f8babed47a40d8d80f204bd9e5574a5d9cfb3b"
+metafile = true
+
+[[files]]
+file = "mods/custom-stars.pw.toml"
+hash = "b849ad9396135903effe0ea0beae7af07c77ec9590adb5e993af6cd210ad9534"
 metafile = true
 
 [[files]]
