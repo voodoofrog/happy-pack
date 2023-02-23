@@ -30,6 +30,11 @@ hash = "f94793d794418cb03656fbd9b7301fdd7164c3bdb16d31436804074516e14e06"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "9b079e80a153e584da0321d4d02f6caeba2a37b6dc3e680d7048fffb8694cbc1"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "3ff9bb7c715f248b800335b19f518952349f44032cc3681b77e1e3ab1997f585"
 metafile = true
@@ -142,6 +147,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-music-updated.pw.toml"
+hash = "5b33b394553891b74538a2fe816a87a74f5e580baaa98b79ddb9d516b3fe3430"
 metafile = true
 
 [[files]]

@@ -62,11 +62,13 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - Custom Stars \*
 - Detail Armor Bar \*
 - Drip Sounds (Fabric) \*
+- Dynamic Music Updated \*
 - Iris \*
 - Reacharound
 
 ### Libraries
 
+- Architectury API
 - Cloth Config API
 - CreativeCore
 - Fabric API
