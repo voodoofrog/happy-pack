@@ -1,8 +1,13 @@
 # Get the Happy Pack!
+
 Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/MultiMC. Packwiz will take care of adding the mods and required config files for you. Simple!
 
 ## The Mods
+
 ### Base
+
+- Amecs
+- Animatica
 - bad packets
 - Blanket
 - Cull Less Leaves
@@ -24,14 +29,20 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - Starlight (Fabric)
 - TieFix
 
-### Optional (* is selected by default)
-- Advancement Plaques *
-- Craftify *
+### Optional (\* is selected by default)
+
+- Advancement Plaques \*
+- AmbientSounds \*
+- AppleSkin \*
+- Craftify \*
 - Reacharound
 
 ### Libraries
+
 - Cloth Config API
+- CreativeCore
 - Fabric API
+- Fabric Language Kotlin
 - Forge Config API Port
 - Iceberg
 - YetAnotherConfigLib

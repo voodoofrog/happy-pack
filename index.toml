@@ -10,6 +10,26 @@ hash = "08b01d3d032dd1db4e1ab6b05e7ea72be16b4483665e9314497ac29d3fee4c2a"
 metafile = true
 
 [[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "78f9e93046e9d54dbc2ebb388dfe2ee6e4ea5138c472dacbfbc926b3047e4a01"
+metafile = true
+
+[[files]]
+file = "mods/amecs.pw.toml"
+hash = "60ab436fb292c5f4773d583622973b3c61f0abbb43c7f009b4016e028ffeb55b"
+metafile = true
+
+[[files]]
+file = "mods/animatica.pw.toml"
+hash = "b494eb2872c5eb3c498e147be24a62e2c62485e375b9b99c15ae0faf8f9dd2ca"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "f94793d794418cb03656fbd9b7301fdd7164c3bdb16d31436804074516e14e06"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "3ff9bb7c715f248b800335b19f518952349f44032cc3681b77e1e3ab1997f585"
 metafile = true
@@ -27,6 +47,11 @@ metafile = true
 [[files]]
 file = "mods/craftify.pw.toml"
 hash = "129e3cd1f03428fd97000c9df6f6534e284bfa35f7ea3080ddfcc055790e5939"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "dddbbecca58c5f866d145265da499621770e6adbe36be6d6284f2d409219638b"
 metafile = true
 
 [[files]]
