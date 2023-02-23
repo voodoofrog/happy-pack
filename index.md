@@ -16,6 +16,7 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - Cull Less Leaves
 - Custom Entity Models
 - DashLoader
+- Dynamic FPS
 - EntityCulling
 - Entity Texture Features
 - Exordium
@@ -59,6 +60,8 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - Clear Skies \*
 - Craftify \*
 - Custom Stars \*
+- Detail Armor Bar \*
+- Drip Sounds (Fabric) \*
 - Iris \*
 - Reacharound
 
