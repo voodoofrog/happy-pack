@@ -1,5 +1,3 @@
-<base target="_blank">
-
 # happy-pack
 The packwiz mod pack for HappyRads' server
 
