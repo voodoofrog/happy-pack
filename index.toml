@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "3724833719d36f4b24fa5cd46b72ee900c05fdaaeaa618efa3a9cc8d68270d64"
-
-[[files]]
 file = "config/customstars.json"
 hash = "ef87db0d367946755bc9666ca3077597b152157534418a2fed52a384f88bc10a"
 
