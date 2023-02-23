@@ -35,6 +35,11 @@ hash = "3ff9bb7c715f248b800335b19f518952349f44032cc3681b77e1e3ab1997f585"
 metafile = true
 
 [[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "99a1d96ae00c53323c2717192eefc88eb566dd306b38704260292d37705584d0"
+metafile = true
+
+[[files]]
 file = "mods/better-beds.pw.toml"
 hash = "0bf7fa5d6e5b126e110699e85c64b4d86a1d4171d17adfc994936e6f62b81083"
 metafile = true

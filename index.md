@@ -35,6 +35,7 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - Advancement Plaques \*
 - AmbientSounds \*
 - AppleSkin \*
+- Better Advancements \*
 - Better Statistics Screen (Fabric/Forge) \*
 - Biome Particle Weather \*
 - Craftify \*
