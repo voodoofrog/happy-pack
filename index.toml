@@ -446,3 +446,8 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "c66028d555a347562589645179fe8834bd04d48b78c9a667f20b4178211dfbb3"
 metafile = true
+
+[[files]]
+file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
+hash = "b6fce2322e40b20591e1e31a9d15153b17250470bf06eac0855882e094dd1ff3"
+metafile = true
