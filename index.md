@@ -65,6 +65,10 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - Detail Armor Bar \*
 - Drip Sounds (Fabric) \*
 - Dynamic Music Updated \*
+- Eating Animation [Fabric] \*
+- Equipment Compare \*
+- EMI \*
+- Falling Leaves \*
 - Iris \*
 - Reacharound
 

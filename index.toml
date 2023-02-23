@@ -160,6 +160,16 @@ hash = "5b33b394553891b74538a2fe816a87a74f5e580baaa98b79ddb9d516b3fe3430"
 metafile = true
 
 [[files]]
+file = "mods/eating-animation.pw.toml"
+hash = "b2c19489d610421b0989a4c6f8635b2b0259b43330740af35ff073c8979b7e83"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "0b0275cb2aa263ea0f1803343e5e1d508520b5126eda130a1269a72555bb0864"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "beaf8fcc2dbc9098a414bedd5a8ca156084b39f20517fac2ff60ad57f5767202"
 metafile = true
@@ -167,6 +177,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "3aad926de03af1573fb934fb5d3ebd98cc41cf5663f97b0f06a4e6d4b0b9f6f2"
+metafile = true
+
+[[files]]
+file = "mods/equipment-compare.pw.toml"
+hash = "44dc6b1105733866a73f2ba0fcdf3a8c81a799a28f74761b064a0e51d4eea0c6"
 metafile = true
 
 [[files]]
@@ -192,6 +207,11 @@ metafile = true
 [[files]]
 file = "mods/fabricskyboxes.pw.toml"
 hash = "4d1d761b0905b18c127d3c5642230ea681f0c52bb5f24df1779b085345c013fa"
+metafile = true
+
+[[files]]
+file = "mods/fallingleaves.pw.toml"
+hash = "92699b5690e48fced18a266291f0c96a9bb9f096700b772840589bd0ca143ef4"
 metafile = true
 
 [[files]]
