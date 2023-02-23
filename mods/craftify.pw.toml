@@ -1,0 +1,18 @@
+name = "Craftify"
+filename = "Craftify-1.19.3-1.7.0-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nrJ2NpD0/versions/UHbRa8mI/Craftify-1.19.3-1.7.0-fabric.jar"
+hash-format = "sha1"
+hash = "60573ebf222615e2697ae7818660527f40b97e35"
+
+[update]
+[update.modrinth]
+mod-id = "nrJ2NpD0"
+version = "UHbRa8mI"
+
+[option]
+optional = true
+default = true
+description = "Craftify is a mod for Minecraft that allows you to connect to music services and display and control them in-game."

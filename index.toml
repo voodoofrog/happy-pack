@@ -25,6 +25,11 @@ hash = "86498eb7f9326155844799dc57c1372fc5000b86f046994162cccd2e480a96ed"
 metafile = true
 
 [[files]]
+file = "mods/craftify.pw.toml"
+hash = "129e3cd1f03428fd97000c9df6f6534e284bfa35f7ea3080ddfcc055790e5939"
+metafile = true
+
+[[files]]
 file = "mods/cull-less-leaves.pw.toml"
 hash = "18f046ed2181bbfbfb07b1db22f8babed47a40d8d80f204bd9e5574a5d9cfb3b"
 metafile = true
@@ -37,6 +42,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "e87a52fb14288a8c503c76a40a18fb901de532b2805e84799c63d6202b3ce037"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "0fe83c99b29c952f464c7bfba9cc86cc4f834bef7834821433fe23ce3dd230e6"
 metafile = true
 
 [[files]]
@@ -87,6 +97,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "e776fe49fb7af0a6d9d719cb966195c13a818619156cc96c9397d3d48445fa4a"
+metafile = true
+
+[[files]]
+file = "mods/reacharound.pw.toml"
+hash = "2f0c3edf892272f2c3c3d177a6880dfbd243be3e9302fb92eb5a31f97c35280b"
 metafile = true
 
 [[files]]

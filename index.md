@@ -26,6 +26,8 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 
 ### Optional (* is selected by default)
 - Advancement Plaques *
+- Craftify *
+- Reacharound
 
 ### Libraries
 - Cloth Config API
