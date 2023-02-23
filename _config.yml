@@ -4,6 +4,8 @@ source: ./
 incremental: false
 highlighter: rouge
 remote_theme: pages-themes/architect@v0.2.0
+title: The Happy Pack
+description: A packwiz mod pack for HappyRads' Minecraft server.
 gist:
   noscript: false
 kramdown:
