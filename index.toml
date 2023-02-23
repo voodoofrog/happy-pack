@@ -40,6 +40,11 @@ hash = "3ff9bb7c715f248b800335b19f518952349f44032cc3681b77e1e3ab1997f585"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "c0a2cd69f456aa82a478794dc857ecadc3f1fd5a81fe8e24d8ffc7c4a0ed649c"
+metafile = true
+
+[[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "99a1d96ae00c53323c2717192eefc88eb566dd306b38704260292d37705584d0"
 metafile = true
@@ -217,6 +222,16 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "064fafff245baf812342dc9af4acf661dec663bab2a4067c65a27fa00860efb1"
+metafile = true
+
+[[files]]
+file = "mods/inventory-essentials.pw.toml"
+hash = "5ca18213d075682dc801dde9e8ec6caada73c0e6a97624ab8f22d9ee273b0ecb"
+metafile = true
+
+[[files]]
+file = "mods/inventory-sorting.pw.toml"
+hash = "9130523c8fa1b833e89c2948c4945733b089c4c2774b2d2976f7e1c6576de2ea"
 metafile = true
 
 [[files]]

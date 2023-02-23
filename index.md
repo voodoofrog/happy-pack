@@ -25,6 +25,8 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - Fastload
 - FerriteCore
 - ImmediatelyFast
+- Inventory Essentials
+- Inventory Sorting
 - Indium
 - Language Reload
 - Lithium
@@ -69,6 +71,7 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 ### Libraries
 
 - Architectury API
+- Balm
 - Cloth Config API
 - CreativeCore
 - Fabric API
