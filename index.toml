@@ -21,6 +21,11 @@ hash = "4c414176e5197b04f07913765a3d7df161939d1201f0b315772bc5189cb41a43"
 metafile = true
 
 [[files]]
+file = "mods/modmenu.pw.toml"
+hash = "09eb7db3ca7778d91ad66845e41b6b4814655fe375a05d4a69528c74b4f1c8af"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "e69463aed8a2ffe236fad62c17e3ae4af38f0784b7eeabbc755338fbad4456e7"
 metafile = true
