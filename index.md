@@ -11,16 +11,29 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - bad packets
 - Better Beds
 - Blanket
+- CIT Resewn
+- continuity
 - Cull Less Leaves
+- Custom Entity Models
 - DashLoader
+- EntityCulling
+- Entity Texture Features
+- Exordium
+- FabricSkyboxes
+- FabricSkyBoxes Interop
 - Fastload
 - FerriteCore
 - ImmediatelyFast
 - Indium
+- Language Reload
 - Lithium
 - Memory Leak Fix
 - Model Gap Fix
 - Mod Menu
+- No Resource Pack Warnings
+- OptiGUI
+- Puzzle
+- Raised
 - Reese's Sodium Options
 - Simple Voice Chat
 - Smooth Boot (Fabric)
@@ -28,6 +41,7 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - Sodium
 - Sound Physics Remastered
 - Starlight (Fabric)
+- thorium
 - TieFix
 
 ### Optional (\* is selected by default)

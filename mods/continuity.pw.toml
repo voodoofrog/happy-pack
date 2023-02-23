@@ -1,0 +1,7 @@
+name = "continuity"
+filename = "continuity-3.0.0-beta.21.19.3.jar"
+
+[download]
+url = "https://github.com/voodoofrog/happy-pack/blob/main/extra/continuity-3.0.0-beta.21.19.3.jar?raw=true"
+hash-format = "sha1"
+hash = "229057727abf35e0469527b94d84d96e1770c156"

@@ -5,6 +5,10 @@ file = "README.md"
 hash = "3724833719d36f4b24fa5cd46b72ee900c05fdaaeaa618efa3a9cc8d68270d64"
 
 [[files]]
+file = "extra/continuity-3.0.0-beta.21.19.3.jar"
+hash = "597b98ec721cd7ea6658c12306a0c434f0fb7153bb9be5a45212b66c52108a1d"
+
+[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "08b01d3d032dd1db4e1ab6b05e7ea72be16b4483665e9314497ac29d3fee4c2a"
 metafile = true
@@ -70,13 +74,28 @@ hash = "529bbdaacacd26dfc0eee361bba42712c420b4e4c55e3eb8fd1c01ebcc17e9d4"
 metafile = true
 
 [[files]]
+file = "mods/cem.pw.toml"
+hash = "188b1f6587b9bcdc3788ae404ad891e5c552b64d3397257cdeab43dd611232df"
+metafile = true
+
+[[files]]
 file = "mods/chunks-fade-in.pw.toml"
 hash = "2fc0993e105b34f3da29a485e20d8c2279b3d29c63fdb459d1a1330e20b1b6bf"
 metafile = true
 
 [[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "fd235eacb6d28aae0ebdfa0de95ac33e4f1a6ec67e16fe8074153665b3b0f55a"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "86498eb7f9326155844799dc57c1372fc5000b86f046994162cccd2e480a96ed"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "f475a3d586c0d3d66878ff6120f394d27156075a4ff8e1585c3e15739017bea7"
 metafile = true
 
 [[files]]
@@ -100,6 +119,21 @@ hash = "5fb073f3ad5a827812bb334296184c6178f7536ad7ed22d4a67578dc3aa96144"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "beaf8fcc2dbc9098a414bedd5a8ca156084b39f20517fac2ff60ad57f5767202"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "3aad926de03af1573fb934fb5d3ebd98cc41cf5663f97b0f06a4e6d4b0b9f6f2"
+metafile = true
+
+[[files]]
+file = "mods/exordium.pw.toml"
+hash = "4e2a60e26cb6760c58dd2ed193f071c430b76cb542ebda0394cfacd220c12362"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "e87a52fb14288a8c503c76a40a18fb901de532b2805e84799c63d6202b3ce037"
 metafile = true
@@ -107,6 +141,16 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "0fe83c99b29c952f464c7bfba9cc86cc4f834bef7834821433fe23ce3dd230e6"
+metafile = true
+
+[[files]]
+file = "mods/fabricskyboxes-interop.pw.toml"
+hash = "f33a392dbbc1e518ebca8929707b5f6c38d59c67fb0b30a30a3ebae5e3d59c73"
+metafile = true
+
+[[files]]
+file = "mods/fabricskyboxes.pw.toml"
+hash = "4d1d761b0905b18c127d3c5642230ea681f0c52bb5f24df1779b085345c013fa"
 metafile = true
 
 [[files]]
@@ -145,6 +189,11 @@ hash = "e803fe5a0191ccd61999c44360e2ec15d48d4d1d485f748ee7bef6b58a8efd27"
 metafile = true
 
 [[files]]
+file = "mods/language-reload.pw.toml"
+hash = "0787b8f8b231e9ce5c4e303000da09ce50cc622ec75eb57676d83be470508fd2"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "feaedf6b6d73530c0289d9c7aa4149823343d2a7f9893f7b81e8c7c003763f31"
 metafile = true
@@ -162,6 +211,26 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "e776fe49fb7af0a6d9d719cb966195c13a818619156cc96c9397d3d48445fa4a"
+metafile = true
+
+[[files]]
+file = "mods/no-resource-pack-warnings.pw.toml"
+hash = "130550012d1bb91595fd441bc1214d28ddb1916d045dfca3875ca422fbd27b92"
+metafile = true
+
+[[files]]
+file = "mods/optigui.pw.toml"
+hash = "ad2b176582893c8e1fd3153c2273b228cd66dfae3287cf1e92b4989b1b8ba776"
+metafile = true
+
+[[files]]
+file = "mods/puzzle.pw.toml"
+hash = "9f099a192392ee51ed679dad76f74806cf1c2fa8c8a37ae015f22c208cfa8236"
+metafile = true
+
+[[files]]
+file = "mods/raised.pw.toml"
+hash = "a2546c22da25221e7f1e2dff79d741437ff8d60c8030b092e9ae4d91fc2446dc"
 metafile = true
 
 [[files]]
@@ -202,6 +271,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
+metafile = true
+
+[[files]]
+file = "mods/thorium.pw.toml"
+hash = "61e2a941621007c901c96fe1474b3c07f208712fa6130151771d5235b6cc8adb"
 metafile = true
 
 [[files]]
