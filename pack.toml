@@ -1,0 +1,13 @@
+name = "Happy Pack"
+author = "VoodooFrog"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "24f6e57529b000c718e4a8ca15fc98836be349435016a7d870b63cc8f942afc6"
+
+[versions]
+fabric = "0.14.15"
+minecraft = "1.19.3"

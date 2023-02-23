@@ -1,0 +1,14 @@
+hash-format = "sha256"
+
+[[files]]
+file = "CNAME"
+hash = "1ad30a71c7f70241efd35922bbdce609a06be5a5b9627f21b8085b58a2f8d5c3"
+
+[[files]]
+file = "index.html"
+hash = "7e194e1f9a6315d4d436cf864313a35d3735928acb193da3f9b2424ae8e05cbc"
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "e69463aed8a2ffe236fad62c17e3ae4af38f0784b7eeabbc755338fbad4456e7"
+metafile = true
