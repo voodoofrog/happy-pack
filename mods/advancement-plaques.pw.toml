@@ -11,3 +11,8 @@ hash = "b2d4f80753974a468a600e61b5e59f2bb97a63f9"
 [update.modrinth]
 mod-id = "9NM0dXub"
 version = "ooA9D4Bj"
+
+[option]
+optional = true
+default = true
+description = "Replaces those boring, anti-climactic advancement popups with fancy glowing plaques."
