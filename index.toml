@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "CNAME"
-hash = "1ad30a71c7f70241efd35922bbdce609a06be5a5b9627f21b8085b58a2f8d5c3"
-
-[[files]]
-file = "index.html"
-hash = "7e194e1f9a6315d4d436cf864313a35d3735928acb193da3f9b2424ae8e05cbc"
-
-[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "a4601dcdda01d2a4d3040ffa6414317afc9b16ab5cfee0f6ac636c274fa01f26"
 metafile = true
