@@ -59,7 +59,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-beds.pw.toml"
-hash = "0bf7fa5d6e5b126e110699e85c64b4d86a1d4171d17adfc994936e6f62b81083"
+hash = "791c384eeff2d74e1f64643d47939305b577132ba61e4fd7f4782ab27389773c"
 metafile = true
 
 [[files]]
@@ -413,6 +413,11 @@ hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
 metafile = true
 
 [[files]]
+file = "mods/stendhal.pw.toml"
+hash = "b0bd9bca0e3c3272570a98dfbbce4b58ec2c33761d1c7278314dbad54ed1188c"
+metafile = true
+
+[[files]]
 file = "mods/thorium.pw.toml"
 hash = "61e2a941621007c901c96fe1474b3c07f208712fa6130151771d5235b6cc8adb"
 metafile = true
@@ -420,6 +425,21 @@ metafile = true
 [[files]]
 file = "mods/tiefix.pw.toml"
 hash = "ff3303e9aec105be6281e7d907b0b3bcec2c3b977c7deff8184c0a8ffc17f027"
+metafile = true
+
+[[files]]
+file = "mods/tiny-item-animations.pw.toml"
+hash = "b759668fedd804500a30d5a438efc367043e079d9fbeb72a1132f94dcd8e325c"
+metafile = true
+
+[[files]]
+file = "mods/visuality.pw.toml"
+hash = "b629134d88416f077d960c70b84b3f3a3fd2c7e8be24947bb222d87cb8a8b0f3"
+metafile = true
+
+[[files]]
+file = "mods/wavey-capes.pw.toml"
+hash = "c72855bcf77d126ff59f6fb1d0ff65237174474543217fe913d81e3824f26306"
 metafile = true
 
 [[files]]

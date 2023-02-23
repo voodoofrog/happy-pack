@@ -82,6 +82,10 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - Presence Footsteps \*
 - Reacharound
 - Simple Discord RPC \*
+- Stendhal \*
+- Tiny Item Animations \*
+- Visuality \*
+- Wavey Capes \*
 
 ### Libraries
 
