@@ -5,6 +5,10 @@ file = "README.md"
 hash = "3724833719d36f4b24fa5cd46b72ee900c05fdaaeaa618efa3a9cc8d68270d64"
 
 [[files]]
+file = "config/customstars.json"
+hash = "ef87db0d367946755bc9666ca3077597b152157534418a2fed52a384f88bc10a"
+
+[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "08b01d3d032dd1db4e1ab6b05e7ea72be16b4483665e9314497ac29d3fee4c2a"
 metafile = true
@@ -98,11 +102,6 @@ metafile = true
 file = "mods/cloth-config.pw.toml"
 hash = "86498eb7f9326155844799dc57c1372fc5000b86f046994162cccd2e480a96ed"
 metafile = true
-
-[[files]]
-file = "mods/config/customstars.json"
-hash = "ef87db0d367946755bc9666ca3077597b152157534418a2fed52a384f88bc10a"
-preserve = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
