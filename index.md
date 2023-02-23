@@ -35,6 +35,7 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - AmbientSounds \*
 - AppleSkin \*
 - Craftify \*
+- Iris \*
 - Reacharound
 
 ### Libraries

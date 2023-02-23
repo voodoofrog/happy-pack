@@ -105,6 +105,11 @@ hash = "064fafff245baf812342dc9af4acf661dec663bab2a4067c65a27fa00860efb1"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "e803fe5a0191ccd61999c44360e2ec15d48d4d1d485f748ee7bef6b58a8efd27"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "feaedf6b6d73530c0289d9c7aa4149823343d2a7f9893f7b81e8c7c003763f31"
 metafile = true
