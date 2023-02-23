@@ -35,6 +35,21 @@ hash = "3ff9bb7c715f248b800335b19f518952349f44032cc3681b77e1e3ab1997f585"
 metafile = true
 
 [[files]]
+file = "mods/better-beds.pw.toml"
+hash = "0bf7fa5d6e5b126e110699e85c64b4d86a1d4171d17adfc994936e6f62b81083"
+metafile = true
+
+[[files]]
+file = "mods/better-stats.pw.toml"
+hash = "8655ffe5c2fd6091d9d14ac5adde964597d1217e2298db5d418a4c85b1f59e53"
+metafile = true
+
+[[files]]
+file = "mods/biome_particle_weather.pw.toml"
+hash = "89d8dbe424e2cea0cbc3515c7efd3a533cd95eb9589b01c7c4f0194b68577e9c"
+metafile = true
+
+[[files]]
 file = "mods/blanket.pw.toml"
 hash = "9906b376e48ef932d7a06383f7f8ef10b0bcba3cf08fb7ad18f480f7ef1ae3ed"
 metafile = true

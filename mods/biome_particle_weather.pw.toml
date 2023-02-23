@@ -1,0 +1,18 @@
+name = "Biome Particle Weather"
+filename = "BiomeParticleWeather-v4.0.4-1.19.3-Fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XH09j5fH/versions/l0aLdpQ1/BiomeParticleWeather-v4.0.4-1.19.3-Fabric.jar"
+hash-format = "sha1"
+hash = "3ad250264e320d7cf4e92c9667463feeca6abc32"
+
+[update]
+[update.modrinth]
+mod-id = "XH09j5fH"
+version = "l0aLdpQ1"
+
+[option]
+optional = true
+default = true
+description = "Biome Particle Weather is a client sided mod that adds unique biome particle weather."
