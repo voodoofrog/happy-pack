@@ -285,8 +285,18 @@ hash = "0787b8f8b231e9ce5c4e303000da09ce50cc622ec75eb57676d83be470508fd2"
 metafile = true
 
 [[files]]
+file = "mods/lighty.pw.toml"
+hash = "3e4f4f929adf25ee4984fc4ffdc8f996fbbd795555141c1012be4300f78e457f"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "feaedf6b6d73530c0289d9c7aa4149823343d2a7f9893f7b81e8c7c003763f31"
+metafile = true
+
+[[files]]
+file = "mods/make_bubbles_pop.pw.toml"
+hash = "4a7d76c75a077befb4db0af975610361950bb3ed3459527d4ac288a7d58a8977"
 metafile = true
 
 [[files]]
@@ -302,6 +312,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "e776fe49fb7af0a6d9d719cb966195c13a818619156cc96c9397d3d48445fa4a"
+metafile = true
+
+[[files]]
+file = "mods/morechathistory.pw.toml"
+hash = "b6ca78b69a53270731b58f1e39712465200e40255398306854462593e8437498"
 metafile = true
 
 [[files]]

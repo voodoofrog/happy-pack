@@ -74,6 +74,9 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - Item Highlighter \*
 - Jade \*
 - JourneyMap \*
+- Lighty \*
+- Make Bubbles Pop \*
+- MoreChatHistory \*
 - Reacharound
 
 ### Libraries
