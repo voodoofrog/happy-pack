@@ -230,6 +230,11 @@ hash = "141d7b9b7aacccafe753464bc0171b33e54b778fd40cf458ac2b3ac051329e8d"
 metafile = true
 
 [[files]]
+file = "mods/hold-that-chunk.pw.toml"
+hash = "5cc35ab587f4bf84d4d0fdff328a3d156f5bf751316b9f3ae3bc806fb5c7aed4"
+metafile = true
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "4c414176e5197b04f07913765a3d7df161939d1201f0b315772bc5189cb41a43"
 metafile = true
@@ -257,6 +262,21 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "e803fe5a0191ccd61999c44360e2ec15d48d4d1d485f748ee7bef6b58a8efd27"
+metafile = true
+
+[[files]]
+file = "mods/item-highlighter.pw.toml"
+hash = "76272a5f71347cdcfb93572001f53240c3ffa44257f1cca6306e077f10e3d209"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "6bda0a48d220448cd063811c668facaeaf2a51c098116d4390c75c2877f38edc"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "5b426c6422de4b78d16b44eb216bb7fa3dd2ee13866bad2359cdb58c9d4ab3b9"
 metafile = true
 
 [[files]]

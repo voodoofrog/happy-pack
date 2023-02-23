@@ -69,7 +69,11 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - Equipment Compare \*
 - EMI \*
 - Falling Leaves \*
+- Hold That Chunk \*
 - Iris \*
+- Item Highlighter \*
+- Jade \*
+- JourneyMap \*
 - Reacharound
 
 ### Libraries
