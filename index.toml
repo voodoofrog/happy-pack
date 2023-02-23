@@ -5,6 +5,14 @@ file = "config/customstars.json"
 hash = "ef87db0d367946755bc9666ca3077597b152157534418a2fed52a384f88bc10a"
 
 [[files]]
+file = "config/splasher/en_gb.txt"
+hash = "bc63caebc12f3faa12e13d4ff09dd912cbd1d842682c8a4707ee97c4d4729130"
+
+[[files]]
+file = "config/splasher/en_us.txt"
+hash = "bc63caebc12f3faa12e13d4ff09dd912cbd1d842682c8a4707ee97c4d4729130"
+
+[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "08b01d3d032dd1db4e1ab6b05e7ea72be16b4483665e9314497ac29d3fee4c2a"
 metafile = true
@@ -320,6 +328,11 @@ hash = "b6ca78b69a53270731b58f1e39712465200e40255398306854462593e8437498"
 metafile = true
 
 [[files]]
+file = "mods/moremcmeta.pw.toml"
+hash = "3763f5c0d29094fcb261a2f88a41bcd9b1a74d44b1c03fcbdb658aec367939c7"
+metafile = true
+
+[[files]]
 file = "mods/no-resource-pack-warnings.pw.toml"
 hash = "130550012d1bb91595fd441bc1214d28ddb1916d045dfca3875ca422fbd27b92"
 metafile = true
@@ -327,6 +340,16 @@ metafile = true
 [[files]]
 file = "mods/optigui.pw.toml"
 hash = "ad2b176582893c8e1fd3153c2273b228cd66dfae3287cf1e92b4989b1b8ba776"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "b11161026be45cb5c8ffc6d2cef5a4e99d7469d19925b09a9588b4e27e88b056"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "f0974c7100dc246f897d8e6fc03761251f9229a2b156ebba54322ad5fc02556d"
 metafile = true
 
 [[files]]
@@ -347,6 +370,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "b2e3be698473bfb3f08865a11e74c9ee8d47239ac72a79d60acc1ee381722a50"
+metafile = true
+
+[[files]]
+file = "mods/simple-discord-rpc.pw.toml"
+hash = "6dc2a3e2db28bac546cd883a5377f796aa5d73f61e53fdc9639c2f624bf9e176"
 metafile = true
 
 [[files]]
@@ -372,6 +400,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "da0d81fb8865755c58eccae520fafbef5bdcae6e5bc577e33e8798ba0c955369"
+metafile = true
+
+[[files]]
+file = "mods/splasher.pw.toml"
+hash = "70f07360f4f538fcd48cd8d157bd90f1c916a96e9bd8ac401428ebb2f561c51a"
 metafile = true
 
 [[files]]

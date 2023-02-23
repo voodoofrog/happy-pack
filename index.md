@@ -33,6 +33,7 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - Memory Leak Fix
 - Model Gap Fix
 - Mod Menu
+- MoreMcmeta
 - No Resource Pack Warnings
 - OptiGUI
 - Puzzle
@@ -43,6 +44,7 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - Sodium Extra
 - Sodium
 - Sound Physics Remastered
+- Splasher!
 - Starlight (Fabric)
 - thorium
 - TieFix
@@ -77,7 +79,9 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - Lighty \*
 - Make Bubbles Pop \*
 - MoreChatHistory \*
+- Presence Footsteps \*
 - Reacharound
+- Simple Discord RPC \*
 
 ### Libraries
 
@@ -89,4 +93,5 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - Fabric Language Kotlin
 - Forge Config API Port
 - Iceberg
+- oωo (owo-lib)
 - YetAnotherConfigLib
