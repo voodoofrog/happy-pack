@@ -3,7 +3,7 @@ safe: true
 source: ./
 incremental: false
 highlighter: rouge
-theme: pages-themes/architect@v0.2.0
+theme: pages-themes/architect
 gist:
   noscript: false
 kramdown:
