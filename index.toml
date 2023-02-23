@@ -9,6 +9,21 @@ file = "index.html"
 hash = "7e194e1f9a6315d4d436cf864313a35d3735928acb193da3f9b2424ae8e05cbc"
 
 [[files]]
+file = "mods/advancement-plaques.pw.toml"
+hash = "a4601dcdda01d2a4d3040ffa6414317afc9b16ab5cfee0f6ac636c274fa01f26"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "e87a52fb14288a8c503c76a40a18fb901de532b2805e84799c63d6202b3ce037"
+metafile = true
+
+[[files]]
+file = "mods/iceberg.pw.toml"
+hash = "4c414176e5197b04f07913765a3d7df161939d1201f0b315772bc5189cb41a43"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "e69463aed8a2ffe236fad62c17e3ae4af38f0784b7eeabbc755338fbad4456e7"
 metafile = true
