@@ -111,6 +111,11 @@ hash = "58f359f340788eed64af5fcc50c177bc43d23d8f1e8fc75ba1aa8b8215319dd4"
 metafile = true
 
 [[files]]
+file = "mods/borderless-mining.pw.toml"
+hash = "3c0772b379e6793ce022881fa4aac6e7ff03f5749afc838b8d1c341c8f9e9ec1"
+metafile = true
+
+[[files]]
 file = "mods/cameraoverhaul.pw.toml"
 hash = "529bbdaacacd26dfc0eee361bba42712c420b4e4c55e3eb8fd1c01ebcc17e9d4"
 metafile = true
