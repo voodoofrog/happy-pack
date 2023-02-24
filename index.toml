@@ -2,15 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/customstars.json"
-hash = "ef87db0d367946755bc9666ca3077597b152157534418a2fed52a384f88bc10a"
+hash = "a53a9698047df7228a247e502d56b340449ae534ca94ed5368e81d370da2476d"
 
 [[files]]
 file = "config/splasher/en_gb.txt"
-hash = "bc63caebc12f3faa12e13d4ff09dd912cbd1d842682c8a4707ee97c4d4729130"
+hash = "d01f8940c4c8bbbe267240559dcff0182c513f4e94b715849b2db47a65f86c3a"
 
 [[files]]
 file = "config/splasher/en_us.txt"
-hash = "bc63caebc12f3faa12e13d4ff09dd912cbd1d842682c8a4707ee97c4d4729130"
+hash = "d01f8940c4c8bbbe267240559dcff0182c513f4e94b715849b2db47a65f86c3a"
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
