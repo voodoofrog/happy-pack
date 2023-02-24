@@ -1,0 +1,28 @@
+{
+  // Change the design of the progress bar
+  progressBarType: "Vanilla",
+  // Change the texture of the logo
+  logoStyle: "Aspect1to1",
+  // Enable/Disable the background image
+  backgroundImage: true,
+  // Change the color of the background
+  backgroundColor: 8771101,
+  // Change the color of the progress bar
+  progressBarColor: 16777215,
+  // Change the color of the progress bar frame
+  progressFrameColor: 16777215,
+  // Change the mode of the custom loading bar
+  customProgressBarMode: "Linear",
+  // Enable/Disable the custom progress bar background
+  customProgressBarBackground: true,
+  // Change the style of the boss loading bar
+  bossBarType: "NOTCHED_6",
+  textures: {
+    BackgroundTexture: "hp_background.jpg",
+    MojangLogo: "mojangstudios.png",
+    Aspect1to1Logo: "happypack.png",
+    BossBarTexture: "textures/gui/bars.png",
+    CustomBarTexture: "progressbar.png",
+    CustomBarBackgroundTexture: "progressbar_background.png",
+  },
+}

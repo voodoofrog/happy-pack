@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/customsplashscreen.json5"
+hash = "49ffb0b1397a888d766d04581e51e576189446b053e099b8aa8a984fbb4e262b"
+
+[[files]]
+file = "config/customsplashscreen/happypack.png"
+hash = "6534415bce63ebc1348a0459c8afc24a00f5a1a61ad3abb4f27a83a1c4d730d2"
+
+[[files]]
+file = "config/customsplashscreen/hp_background.jpg"
+hash = "66675bf91f4e848eb72d993552eb9dd8e10df5541c2ee4b76d2a8104e0976882"
+
+[[files]]
 file = "config/customstars.json"
 hash = "a53a9698047df7228a247e502d56b340449ae534ca94ed5368e81d370da2476d"
 preserve = true
@@ -136,6 +148,11 @@ metafile = true
 [[files]]
 file = "mods/cull-less-leaves.pw.toml"
 hash = "18f046ed2181bbfbfb07b1db22f8babed47a40d8d80f204bd9e5574a5d9cfb3b"
+metafile = true
+
+[[files]]
+file = "mods/custom-splash-screen.pw.toml"
+hash = "23e3c4cb4e2ee0ed4cd1d9a8e1960578cf3e49839813c7930c4809aba304a1f7"
 metafile = true
 
 [[files]]

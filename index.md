@@ -15,6 +15,7 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - continuity
 - Cull Less Leaves
 - Custom Entity Models
+- Custom Splash Screen
 - DashLoader
 - Dynamic FPS
 - EntityCulling
