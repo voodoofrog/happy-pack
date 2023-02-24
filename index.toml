@@ -3,6 +3,7 @@ hash-format = "sha256"
 [[files]]
 file = "config/customstars.json"
 hash = "a53a9698047df7228a247e502d56b340449ae534ca94ed5368e81d370da2476d"
+preserve = true
 
 [[files]]
 file = "config/splasher/en_gb.txt"
@@ -455,6 +456,7 @@ metafile = true
 [[files]]
 file = "shaderpacks/MakeUp-UltraFast-8.7a.zip.txt"
 hash = "199b700df56fc8fc854f7686a63804cac02d2b67182e9b09c38a657b956e212c"
+preserve = true
 
 [[files]]
 file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
