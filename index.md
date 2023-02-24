@@ -62,6 +62,7 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - Better Statistics Screen (Fabric/Forge) \*
 - Biome Particle Weather \*
 - Bobby \*
+- Capes \*
 - CameraOverhaul \*
 - Chunks fade in \*
 - ClearDespawn \*

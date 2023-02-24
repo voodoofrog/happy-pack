@@ -11,3 +11,8 @@ hash = "4eea2db65c500c75afe428d0a4a2608d7479b854"
 [update.modrinth]
 mod-id = "zV5r3pPn"
 version = "lt0gHTA6"
+
+[option]
+optional = true
+default = true
+description = "Replaces the usually flat second layer of player skins with a 3d modeled version. Also supports transparent parts on things like glasses!"
