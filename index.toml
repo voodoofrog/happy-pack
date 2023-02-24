@@ -263,8 +263,8 @@ hash = "5ca18213d075682dc801dde9e8ec6caada73c0e6a97624ab8f22d9ee273b0ecb"
 metafile = true
 
 [[files]]
-file = "mods/inventory-sorting.pw.toml"
-hash = "9130523c8fa1b833e89c2948c4945733b089c4c2774b2d2976f7e1c6576de2ea"
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "26e720ab613645ce95edb929e7303e2be0dea80fa950a72883c1eee2842513b1"
 metafile = true
 
 [[files]]
@@ -290,6 +290,11 @@ metafile = true
 [[files]]
 file = "mods/language-reload.pw.toml"
 hash = "0787b8f8b231e9ce5c4e303000da09ce50cc622ec75eb57676d83be470508fd2"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "443e8f4bc1c71f843308885e8ab345bebedc19a6054bd97a61d6612f783832f4"
 metafile = true
 
 [[files]]
