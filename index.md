@@ -98,5 +98,6 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - Fabric Language Kotlin
 - Forge Config API Port
 - Iceberg
+- libIPN
 - oωo (owo-lib)
 - YetAnotherConfigLib
