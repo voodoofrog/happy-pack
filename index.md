@@ -53,6 +53,7 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 
 ### Optional (\* is selected by default)
 
+- 3D Skin Layers \*
 - Advancement Plaques \*
 - AmbientSounds \*
 - AppleSkin \*

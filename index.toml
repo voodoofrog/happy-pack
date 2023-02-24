@@ -26,6 +26,11 @@ file = "config/splasher/en_us.txt"
 hash = "d01f8940c4c8bbbe267240559dcff0182c513f4e94b715849b2db47a65f86c3a"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "c025d2226099f9035bafd0adab1c63f2800dee5aa0c7c047720457f9535439b2"
+metafile = true
+
+[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "08b01d3d032dd1db4e1ab6b05e7ea72be16b4483665e9314497ac29d3fee4c2a"
 metafile = true
