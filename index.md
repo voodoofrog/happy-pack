@@ -11,6 +11,7 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - bad packets
 - Better Beds
 - Blanket
+- Boat Item View
 - CIT Resewn
 - continuity
 - Cull Less Leaves
