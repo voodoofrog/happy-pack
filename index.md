@@ -26,7 +26,7 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - FerriteCore
 - ImmediatelyFast
 - Inventory Essentials
-- Inventory Sorting
+- Inventory Profiles Next
 - Indium
 - Language Reload
 - Lithium
