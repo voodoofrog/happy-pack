@@ -14,7 +14,7 @@ hash = "66675bf91f4e848eb72d993552eb9dd8e10df5541c2ee4b76d2a8104e0976882"
 
 [[files]]
 file = "config/customstars.json"
-hash = "a53a9698047df7228a247e502d56b340449ae534ca94ed5368e81d370da2476d"
+hash = "e370868cdd62cfce31b90da3a1fbc51e64540787862a1de8bdb622277294fe57"
 preserve = true
 
 [[files]]
