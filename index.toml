@@ -18,8 +18,8 @@ hash = "a53a9698047df7228a247e502d56b340449ae534ca94ed5368e81d370da2476d"
 preserve = true
 
 [[files]]
-file = "config/splasher/en_gb.txt"
-hash = "d01f8940c4c8bbbe267240559dcff0182c513f4e94b715849b2db47a65f86c3a"
+file = "config/splasher.toml"
+hash = "7762ee36c2fc4cc86cc1b7b73878b89f3fbb877a690dbc8f0d6d984ecde9e994"
 
 [[files]]
 file = "config/splasher/en_us.txt"
