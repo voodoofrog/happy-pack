@@ -10,6 +10,7 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - Animatica
 - bad packets
 - Better Beds
+- Better Biome Blend
 - Blanket
 - Boat Item View
 - CIT Resewn
