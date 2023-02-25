@@ -11,8 +11,3 @@ hash = "b6404f241552c4ff296ee867f95b4229495ca35c"
 [update.modrinth]
 mod-id = "YL57xq9U"
 version = "ExtC2pRY"
-
-[option]
-optional = true
-default = true
-description = "An open-source shaders mod compatible with OptiFine shaderpacks."
