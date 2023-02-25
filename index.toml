@@ -18,6 +18,11 @@ hash = "e370868cdd62cfce31b90da3a1fbc51e64540787862a1de8bdb622277294fe57"
 preserve = true
 
 [[files]]
+file = "config/easierchests.json"
+hash = "d99aa332b5eebf80bee14782219ebceaa51e9bf9c44f390ed8418589f1c7b40a"
+preserve = true
+
+[[files]]
 file = "config/splasher.toml"
 hash = "7762ee36c2fc4cc86cc1b7b73878b89f3fbb877a690dbc8f0d6d984ecde9e994"
 
@@ -211,6 +216,11 @@ hash = "5b33b394553891b74538a2fe816a87a74f5e580baaa98b79ddb9d516b3fe3430"
 metafile = true
 
 [[files]]
+file = "mods/easierchests.pw.toml"
+hash = "432dddc7fe2e31696704bae718ca1d1012f27fc92b66b8e9a868d97983115963"
+metafile = true
+
+[[files]]
 file = "mods/eating-animation.pw.toml"
 hash = "b2c19489d610421b0989a4c6f8635b2b0259b43330740af35ff073c8979b7e83"
 metafile = true
@@ -303,11 +313,6 @@ metafile = true
 [[files]]
 file = "mods/inventory-essentials.pw.toml"
 hash = "5ca18213d075682dc801dde9e8ec6caada73c0e6a97624ab8f22d9ee273b0ecb"
-metafile = true
-
-[[files]]
-file = "mods/inventory-profiles-next.pw.toml"
-hash = "26e720ab613645ce95edb929e7303e2be0dea80fa950a72883c1eee2842513b1"
 metafile = true
 
 [[files]]

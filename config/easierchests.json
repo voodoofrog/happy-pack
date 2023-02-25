@@ -1,0 +1,44 @@
+{
+  "easierchests.config.enablecolumnbuttons": {
+    "key": "Enable column arrows",
+    "toolTip": "easierchests.config.tt.enablecolumnbuttons",
+    "value": false,
+    "defaultValue": true
+  },
+  "easierchests.config.halfsize": {
+    "key": "Half button size",
+    "toolTip": "easierchests.config.tt.halfsize",
+    "value": true,
+    "defaultValue": false
+  },
+  "easierchests.config.enablesearch": {
+    "key": "Enable search box",
+    "toolTip": "easierchests.config.tt.enablesearch",
+    "value": true,
+    "defaultValue": true
+  },
+  "easierchests.config.enablerowbuttons": {
+    "key": "Enable row arrows",
+    "toolTip": "easierchests.config.tt.enablerowbuttons",
+    "value": false,
+    "defaultValue": true
+  },
+  "easierchests.config.highlight": {
+    "key": "Highlight color (ARGB)",
+    "toolTip": "easierchests.config.tt.highlight",
+    "value": "4000ff00",
+    "defaultValue": "4000ff00"
+  },
+  "easierchests.config.transparent": {
+    "key": "Transparent buttons",
+    "toolTip": "easierchests.config.tt.transparent",
+    "value": true,
+    "defaultValue": true
+  },
+  "easierchests.config.largechests": {
+    "key": "Allow extra large chests",
+    "toolTip": "easierchests.config.tt.largechests",
+    "value": false,
+    "defaultValue": false
+  }
+}

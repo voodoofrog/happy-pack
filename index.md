@@ -20,6 +20,7 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - Custom Splash Screen
 - DashLoader
 - Dynamic FPS
+- EasierChests
 - EntityCulling
 - Entity Texture Features
 - Exordium
@@ -29,7 +30,6 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - FerriteCore
 - ImmediatelyFast
 - Inventory Essentials
-- Inventory Profiles Next
 - Indium
 - Language Reload
 - Lithium
