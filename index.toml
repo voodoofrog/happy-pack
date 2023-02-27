@@ -501,6 +501,11 @@ hash = "c66028d555a347562589645179fe8834bd04d48b78c9a667f20b4178211dfbb3"
 metafile = true
 
 [[files]]
+file = "servers.dat"
+hash = "3a268afd53ec4e640ce2f9a0da3eb0ea67b81a188253dd703a8cc50a2926a624"
+preserve = true
+
+[[files]]
 file = "shaderpacks/MakeUp-UltraFast-8.7a.zip.txt"
 hash = "199b700df56fc8fc854f7686a63804cac02d2b67182e9b09c38a657b956e212c"
 preserve = true
