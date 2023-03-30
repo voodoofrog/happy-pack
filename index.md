@@ -6,27 +6,18 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 
 ### Base
 
-- Amecs
-- Animatica
 - bad packets
-- Better Beds
-- Better Biome Blend
-- Blanket
 - Boat Item View
 - CIT Resewn
 - continuity
-- Cull Less Leaves
 - Custom Entity Models
-- Custom Splash Screen
 - DashLoader
 - Dynamic FPS
-- EasierChests
 - EntityCulling
 - Entity Texture Features
 - Exordium
 - FabricSkyboxes
 - FabricSkyBoxes Interop
-- Fastload
 - FerriteCore
 - ImmediatelyFast
 - Inventory Essentials
@@ -49,44 +40,33 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - Sound Physics Remastered
 - Splasher!
 - Starlight (Fabric)
-- thorium
 - TieFix
 
 ### Optional (\* is selected by default)
 
 - 3D Skin Layers \*
-- Advancement Plaques \*
 - AmbientSounds \*
 - AppleSkin \*
 - Better Advancements \*
-- Better Statistics Screen (Fabric/Forge) \*
-- Biome Particle Weather \*
 - Bobby \*
 - Borderless Mining \*
 - Capes \*
-- CameraOverhaul \*
 - Chunks fade in \*
 - ClearDespawn \*
-- Clear Skies \*
 - Craftify \*
 - Custom Stars \*
 - Detail Armor Bar \*
 - Drip Sounds (Fabric) \*
-- Dynamic Music Updated \*
 - Eating Animation [Fabric] \*
-- Equipment Compare \*
 - EMI \*
 - Falling Leaves \*
 - Hold That Chunk \*
 - Iris \*
-- Item Highlighter \*
 - Jade \*
 - JourneyMap \*
 - Lighty \*
 - Make Bubbles Pop \*
 - MoreChatHistory \*
-- Presence Footsteps \*
-- Reacharound
 - Simple Discord RPC \*
 - Stendhal \*
 - Tiny Item Animations \*
@@ -102,7 +82,50 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - Fabric API
 - Fabric Language Kotlin
 - Forge Config API Port
-- Iceberg
 - libIPN
 - oωo (owo-lib)
 - YetAnotherConfigLib
+
+### Not available for 1.19.4 at the moment
+
+- Advancement Plaques \*
+- Amecs
+- Animatica
+- Better Beds
+- Better Biome Blend
+- Better Statistics Screen (Fabric/Forge) \*
+- Biome Particle Weather *
+- Blanket
+- CameraOverhaul \*
+- Clear Skies \*
+- ClearDespawn \*
+- Cull Less Leaves
+- Custom Splash Screen
+- Dynamic Music Updated \*
+- EasierChests
+- Equipment Compare \*
+- Fastload
+- Iceberg (Libraries)
+- Item Highlighter \*
+- Presence Footsteps \*
+- Reacharound
+- thorium
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

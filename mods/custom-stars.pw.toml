@@ -1,18 +1,18 @@
 name = "Custom Stars [Fabric]"
-filename = "custom-stars-1.2+1.19.3.jar"
+filename = "custom-stars-1.2.1+1.19.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "44209cc416b176e5124b590dae6ff735b786b4e0"
+hash = "81bab2d82128e2c2771d57fbea47cbf51d107f11"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4277427
+file-id = 4438221
 project-id = 411848
 
 [option]
 optional = true
-default = true
 description = "A simple client-side mod that allows you to configure the size, number, and overall color of stars in the night sky.  There are also some End Sky options."
+default = true

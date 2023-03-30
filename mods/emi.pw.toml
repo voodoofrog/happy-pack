@@ -1,18 +1,18 @@
 name = "EMI"
-filename = "emi-0.6.6+1.19.3.jar"
+filename = "emi-0.7.2+1.19.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/fRiHVvU7/versions/fS3fm4Dd/emi-0.6.6%2B1.19.3.jar"
+url = "https://cdn.modrinth.com/data/fRiHVvU7/versions/vy8MPD02/emi-0.7.2%2B1.19.4.jar"
 hash-format = "sha1"
-hash = "5cc6e5c3eca13adca9c0624485971b24e1e6c2d3"
+hash = "2d680bdea860dc462cdc2148cf524fcc4e69f965"
 
 [update]
 [update.modrinth]
 mod-id = "fRiHVvU7"
-version = "fS3fm4Dd"
+version = "vy8MPD02"
 
 [option]
 optional = true
-default = true
 description = "EMI is a featureful and accessible item and recipe viewer."
+default = true

@@ -1,18 +1,18 @@
 name = "JourneyMap"
-filename = "journeymap-1.19.3-5.9.3-fabric.jar"
+filename = "journeymap-1.19.4-5.9.4beta2-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/lfHFW1mp/versions/Gxu68kGX/journeymap-1.19.3-5.9.3-fabric.jar"
+url = "https://cdn.modrinth.com/data/lfHFW1mp/versions/Hwb4D5Lw/journeymap-1.19.4-5.9.4beta2-fabric.jar"
 hash-format = "sha1"
-hash = "8beeacd1d482a1f9cdfd8eebc5713741c780475f"
+hash = "a61f8486485646978dbac99c24cb9a689656bdf4"
 
 [update]
 [update.modrinth]
 mod-id = "lfHFW1mp"
-version = "Gxu68kGX"
+version = "Hwb4D5Lw"
 
 [option]
 optional = true
-default = true
 description = "JourneyMap is a mod which maps your Minecraft world in real-time as you explore."
+default = true
