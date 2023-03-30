@@ -1,18 +1,18 @@
 name = "MakeUp - Ultra Fast"
-filename = "MakeUp-UltraFast-8.7a.zip"
+filename = "MakeUp-UltraFast-8.8a.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/izsIPI7a/versions/nq7l7BcV/MakeUp-UltraFast-8.7a.zip"
+url = "https://cdn.modrinth.com/data/izsIPI7a/versions/yt7KFLEm/MakeUp-UltraFast-8.8a.zip"
 hash-format = "sha1"
-hash = "a60265d48579162e6fb9e6913da4c7ebcf57080e"
+hash = "9ad3237822e64683ba23f413e1ebe41786986da4"
 
 [update]
 [update.modrinth]
 mod-id = "izsIPI7a"
-version = "nq7l7BcV"
+version = "yt7KFLEm"
 
 [option]
 optional = true
-default = true
 description = "A nice shader pack that doesn't stray too far from vanilla."
+default = true

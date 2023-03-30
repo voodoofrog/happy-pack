@@ -1,18 +1,18 @@
 name = "Lighty"
-filename = "lighty-1.1.0+1.19.3.jar"
+filename = "lighty-1.2.1+1.19.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/yjvKidNM/versions/cIcJkZrY/lighty-1.1.0%2B1.19.3.jar"
+url = "https://cdn.modrinth.com/data/yjvKidNM/versions/VGTmLBcm/lighty-1.2.1%2B1.19.4.jar"
 hash-format = "sha1"
-hash = "809756912b88277c432873d25fd699d61d5bf330"
+hash = "b84eb9ec75e36583e2190e44dae3ff32b6b66f8f"
 
 [update]
 [update.modrinth]
 mod-id = "yjvKidNM"
-version = "cIcJkZrY"
+version = "VGTmLBcm"
 
 [option]
 optional = true
-default = true
 description = "A light overlay mod that can render a transparent carpet-like block to show light levels."
+default = true
