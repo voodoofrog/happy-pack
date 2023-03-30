@@ -94,7 +94,7 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - Better Beds
 - Better Biome Blend
 - Better Statistics Screen (Fabric/Forge) \*
-- Biome Particle Weather *
+- Biome Particle Weather \*
 - Blanket
 - CameraOverhaul \*
 - Clear Skies \*
@@ -108,5 +108,5 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - Iceberg (Libraries)
 - Item Highlighter \*
 - Presence Footsteps \*
-- Reacharound
+- Reacharound \*
 - thorium
