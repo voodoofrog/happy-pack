@@ -61,6 +61,11 @@ hash = "7eb713cf4d4d0062fb34f3fa61c987fffc2c2859636adc193a1a3bc7cbeb31be"
 metafile = true
 
 [[files]]
+file = "mods/better-stats.pw.toml"
+hash = "bedc61a1d2b0c53dbad482431e9955910025aabf1e138e7254b60b5f4d64684a"
+metafile = true
+
+[[files]]
 file = "mods/boat-item-view.pw.toml"
 hash = "8f39c1f9a2a5856bc40ccfd3414f8d0e0ec90429dadf4aaf2333790bdcb727cb"
 metafile = true
@@ -191,6 +196,11 @@ hash = "fc452dcf959f0cfab39d27b9e55a00cdf34b030181c7fecfcb2e453679705989"
 metafile = true
 
 [[files]]
+file = "mods/fastload.pw.toml"
+hash = "cb42423fc581c24ed56adaee739fc5e4b86f76d2bc3c9fc79ca812ee87e65cbd"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "c2814d761fc227d78759c88c38b37b3985fe4a36d18520a333965a1a9a601c2d"
 metafile = true
@@ -298,6 +308,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "f403c771795282b22ded95a62cca193f0561ff3c4d7ca6803a5e4f53618c38cd"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "5b242270eda128c7eb2cdcc29d9f8fe24a997241ef19093a0e1e5112bc0dcabb"
 metafile = true
 
 [[files]]
