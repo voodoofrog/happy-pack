@@ -91,6 +91,7 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - Advancement Plaques \*
 - Amecs
 - Animatica
+- Better Advancements \*
 - Better Beds
 - Better Biome Blend
 - Better Statistics Screen (Fabric/Forge) \*
