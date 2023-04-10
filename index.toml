@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "9fd477e1641d3e008b49089f7650e1023b8e0bbd7105231b60c8ebc7882906ad"
+hash = "5e259934dcbb1f7a3935e778a4614abf486b81d0da7ba4f11585d3784498b5c4"
 metafile = true
 
 [[files]]
@@ -58,11 +58,6 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "7eb713cf4d4d0062fb34f3fa61c987fffc2c2859636adc193a1a3bc7cbeb31be"
-metafile = true
-
-[[files]]
-file = "mods/better-advancements.pw.toml"
-hash = "99a1d96ae00c53323c2717192eefc88eb566dd306b38704260292d37705584d0"
 metafile = true
 
 [[files]]
@@ -152,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "22b4729538ebbde88d8200c5ca0b120572ca4d9472de5543d97f658c408b1c3c"
+hash = "cdaab3f610d77ac365ad843afb2905f36c2b762623a1ee6d77c5e3fdc3447686"
 metafile = true
 
 [[files]]
@@ -172,12 +167,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "80f49d10263dca41505fd9a2c41c58209bd8f35ebd242e00e29b14d87abd9955"
+hash = "513bfafe9cf6262ea520d26d065ea1c192d2fd728a7c88a94aad964bf0da18cc"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "3ecd59b2ab957aadc6759fdb82b82d63c03dfef49c1199f271078659e94cdbf1"
+hash = "62360beac5e427be02b732421c9e4fe53819bc6f5e2cc821fd6f2d9278c5485b"
 metafile = true
 
 [[files]]
@@ -227,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "c880ebfe6d340e4da7fe935f1a3cdcff84d3db7f4efe8fb3d12839b6d08c7aed"
+hash = "60a78e25d2180c559f671bff385131be02a49d9c5a650b988995dbf3aaae6660"
 metafile = true
 
 [[files]]
@@ -237,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "82b78d41a184d5130a1fbcb3e5d4b688fb0a5276e816c24d4552ebf4f72c94d3"
+hash = "993d73dcc15d8351db94a274315eabe7ce1ac78d5aa8f6944ed0e83f6a372822"
 metafile = true
 
 [[files]]
@@ -327,7 +322,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "c01f00bc3f4e37b70a9a6aab6041ae40708b0068769770c1ec1f899429ab71b5"
+hash = "621cbda83c2f9b7c3e741b72a79fd138a7714315752ecbb576fb9c8f1e433c17"
 metafile = true
 
 [[files]]
@@ -387,7 +382,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "6e8a89639607fa2228b15c521d324e286850207ec29494c2655649d69b61e644"
+hash = "96a0c6997753cbc04207852157e0fd41d47dfbfd6aef9023125380518d8dd545"
 metafile = true
 
 [[files]]
