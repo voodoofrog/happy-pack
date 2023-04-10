@@ -18,6 +18,7 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - Exordium
 - FabricSkyboxes
 - FabricSkyBoxes Interop
+- Fastload
 - FerriteCore
 - ImmediatelyFast
 - Inventory Essentials
@@ -47,7 +48,7 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - 3D Skin Layers \*
 - AmbientSounds \*
 - AppleSkin \*
-- Better Advancements \*
+- Better Statistics Screen (Fabric/Forge) \*
 - Bobby \*
 - Borderless Mining \*
 - Capes \*
@@ -67,6 +68,7 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - Lighty \*
 - Make Bubbles Pop \*
 - MoreChatHistory \*
+- Presence Footsteps \*
 - Simple Discord RPC \*
 - Stendhal \*
 - Tiny Item Animations \*
@@ -94,7 +96,6 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - Better Advancements \*
 - Better Beds
 - Better Biome Blend
-- Better Statistics Screen (Fabric/Forge) \*
 - Biome Particle Weather \*
 - Blanket
 - CameraOverhaul \*
@@ -105,9 +106,7 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - Dynamic Music Updated \*
 - EasierChests
 - Equipment Compare \*
-- Fastload
 - Iceberg (Libraries)
 - Item Highlighter \*
-- Presence Footsteps \*
 - Reacharound \*
 - thorium
