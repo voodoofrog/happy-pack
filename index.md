@@ -47,7 +47,6 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - 3D Skin Layers \*
 - AmbientSounds \*
 - AppleSkin \*
-- Better Advancements \*
 - Bobby \*
 - Borderless Mining \*
 - Capes \*
@@ -91,10 +90,11 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - Advancement Plaques \*
 - Amecs
 - Animatica
+- Better Advancements \*
 - Better Beds
 - Better Biome Blend
 - Better Statistics Screen (Fabric/Forge) \*
-- Biome Particle Weather *
+- Biome Particle Weather \*
 - Blanket
 - CameraOverhaul \*
 - Clear Skies \*
@@ -108,5 +108,5 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - Iceberg (Libraries)
 - Item Highlighter \*
 - Presence Footsteps \*
-- Reacharound
+- Reacharound \*
 - thorium
