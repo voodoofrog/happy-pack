@@ -11,8 +11,3 @@ hash = "b045e7ac468a78922515c180d4403f8380ec9fec"
 [update.modrinth]
 mod-id = "LXJlc5WJ"
 version = "TbJQtyy8"
-
-[option]
-optional = true
-default = true
-description = "Prevents the Minecraft client from immediately unloading chunks when it receives chunk unload packets from the server."
