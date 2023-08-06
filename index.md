@@ -6,21 +6,31 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 
 ### Base
 
+- Advancement Plaques \*
+- Animatica
+- Amecs
 - bad packets
+- Better Advancements \*
+- Better Beds
 - Boat Item View
 - CIT Resewn
 - continuity
-- Custom Entity Models
-- DashLoader
+- ClearDespawn \*
+- Cull Less Leaves
+- Custom Splash Screen
 - Dynamic FPS
+- Dynamic Music Updated \*
+- EasierChests
 - EntityCulling
 - Entity Texture Features
+- Equipment Compare \*
 - Exordium
 - FabricSkyboxes
 - FabricSkyBoxes Interop
 - Fastload
 - FerriteCore
 - ImmediatelyFast
+- Item Highlighter \*
 - Inventory Essentials
 - Indium
 - Language Reload
@@ -35,7 +45,6 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - Raised
 - Reese's Sodium Options
 - Simple Voice Chat
-- Smooth Boot (Fabric)
 - Sodium Extra
 - Sodium
 - Sound Physics Remastered
@@ -80,7 +89,9 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - Architectury API
 - Balm
 - Cloth Config API
+- CraterLib
 - CreativeCore
+- Iceberg (Libraries)
 - Fabric API
 - Fabric Language Kotlin
 - Forge Config API Port
@@ -88,25 +99,18 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - oωo (owo-lib)
 - YetAnotherConfigLib
 
+###  Not available for 1.20.1 at the moment 
+
+- Blanket
+- Custom Entity Models
+- DashLoader
+- Smooth Boot (Fabric)
+
 ### Not available for 1.19.4 at the moment
 
-- Advancement Plaques \*
-- Amecs
-- Animatica
-- Better Advancements \*
-- Better Beds
 - Better Biome Blend
 - Biome Particle Weather \*
-- Blanket
 - CameraOverhaul \*
 - Clear Skies \*
-- ClearDespawn \*
-- Cull Less Leaves
-- Custom Splash Screen
-- Dynamic Music Updated \*
-- EasierChests
-- Equipment Compare \*
-- Iceberg (Libraries)
-- Item Highlighter \*
 - Reacharound \*
 - thorium
