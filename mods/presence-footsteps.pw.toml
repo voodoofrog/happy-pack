@@ -11,3 +11,8 @@ hash = "e5ea35c6c326e6f5e6fe2a8af7cbc6a955515dbc"
 [update.modrinth]
 mod-id = "rcTfTZr3"
 version = "FMF3yzCR"
+
+[option]
+optional = true
+description = "An overly complicated sound mod."
+default = true

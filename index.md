@@ -6,29 +6,22 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 
 ### Base
 
-- Advancement Plaques \*
 - Animatica
 - Amecs
 - bad packets
-- Better Advancements \*
 - Better Beds
 - Boat Item View
 - CIT Resewn
 - continuity
-- ClearDespawn \*
 - Cull Less Leaves
 - Custom Splash Screen
 - Dynamic FPS
 - EasierChests
 - EntityCulling
 - Entity Texture Features
-- Equipment Compare \*
-- Exordium
 - FabricSkyboxes
 - FabricSkyBoxes Interop
-- Fastload
 - FerriteCore
-- Item Highlighter \*
 - Inventory Essentials
 - Indium
 - Language Reload
@@ -53,29 +46,35 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 ### Optional (\* is selected by default)
 
 - 3D Skin Layers \*
+- Advancement Plaques \*
 - AmbientSounds \*
 - AppleSkin \*
+- Better Advancements \*
 - Better Statistics Screen (Fabric/Forge) \*
-- Bobby \*
 - Borderless Mining \*
 - Capes \*
-- Chunks fade in \*
+- CameraOverhaul \*
 - ClearDespawn \*
 - Craftify \*
 - Custom Stars \*
 - Detail Armor Bar \*
 - Drip Sounds (Fabric) \*
+- Dynamic Music Updated \*
 - Eating Animation [Fabric] \*
 - EMI \*
+- Equipment Compare \*
 - Falling Leaves \*
 - Hold That Chunk \*
 - Iris \*
+- Item Highlighter \*
 - Jade \*
 - JourneyMap \*
 - Lighty \*
+- Logical Zoom \*
 - Make Bubbles Pop \*
 - MoreChatHistory \*
 - Presence Footsteps \*
+- Reacharound \*
 - Simple Discord RPC \*
 - Stendhal \*
 - Tiny Item Animations \*
@@ -100,8 +99,12 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 ###  Not available for 1.20.1 at the moment (or crashing the game)
 
 - Blanket
+- Bobby \* (Crashing the game)
+- Chunks fade in \* (Doesn't work with Sodium 0.5.0 yet)
 - Custom Entity Models
-- DashLoader
+- DashLoader (crashes game on second load)
+- Exordium (doesn't render sign text in 1.20.1)
+- Fastload (Complaining that it doesn't like 1.20.1)
 - ImmediatelyFast
 - Smooth Boot (Fabric)
 
@@ -109,8 +112,5 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 
 - Better Biome Blend
 - Biome Particle Weather \*
-- CameraOverhaul \*
 - Clear Skies \*
-- Dynamic Music Updated \*
-- Reacharound \*
 - thorium
