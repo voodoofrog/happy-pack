@@ -19,7 +19,6 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - Cull Less Leaves
 - Custom Splash Screen
 - Dynamic FPS
-- Dynamic Music Updated \*
 - EasierChests
 - EntityCulling
 - Entity Texture Features
@@ -112,5 +111,6 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - Biome Particle Weather \*
 - CameraOverhaul \*
 - Clear Skies \*
+- Dynamic Music Updated \*
 - Reacharound \*
 - thorium

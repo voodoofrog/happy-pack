@@ -166,11 +166,6 @@ hash = "c8c6a3893859d2f0e04ebf400c8ce8b47de21cfe6097996b5dde1561e92f3c80"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-music-updated.pw.toml"
-hash = "adb121ae443c7b25b08d23913c3bab302aa80025e7504ec6bb9272fe7511df2f"
-metafile = true
-
-[[files]]
 file = "mods/easierchests.pw.toml"
 hash = "c8d9fdd7961f408ff0ee0c1d12e25cf2f3a89043a4f457e202f7e9c4031d862b"
 metafile = true
