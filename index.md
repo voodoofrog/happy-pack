@@ -59,7 +59,6 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - Custom Stars \*
 - Detail Armor Bar \*
 - Drip Sounds (Fabric) \*
-- Dynamic Music Updated \*
 - Eating Animation [Fabric] \*
 - EMI \*
 - Equipment Compare \*
@@ -103,6 +102,7 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - Chunks fade in \* (Doesn't work with Sodium 0.5.0 yet)
 - Custom Entity Models
 - DashLoader (crashes game on second load)
+- Dynamic Music Updated \* (Crashes on launch)
 - Exordium (doesn't render sign text in 1.20.1)
 - Fastload (Complaining that it doesn't like 1.20.1)
 - ImmediatelyFast
