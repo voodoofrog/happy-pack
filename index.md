@@ -28,7 +28,6 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - FabricSkyBoxes Interop
 - Fastload
 - FerriteCore
-- ImmediatelyFast
 - Item Highlighter \*
 - Inventory Essentials
 - Indium
@@ -98,11 +97,12 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - oωo (owo-lib)
 - YetAnotherConfigLib
 
-###  Not available for 1.20.1 at the moment 
+###  Not available for 1.20.1 at the moment (or crashing the game)
 
 - Blanket
 - Custom Entity Models
 - DashLoader
+- ImmediatelyFast
 - Smooth Boot (Fabric)
 
 ### Not available for 1.19.4 at the moment
