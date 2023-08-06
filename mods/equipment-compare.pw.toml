@@ -11,3 +11,8 @@ hash = "3327799e9457169b0570f524df3dcf0082401f30"
 [update.modrinth]
 mod-id = "CYSUVOdj"
 version = "nYI4tEpt"
+
+[option]
+optional = true
+description = "Adds additional tooltips when hovering over equipment for easy comparisons."
+default = true

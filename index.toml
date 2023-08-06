@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
-hash = "17e3a38e3a681732d7a40b262bbd74bf8227ed7cd9ef87bae71816dd1670b6d0"
+hash = "d5c67e5b8220a7e78f67afda8efac89c86a5937c187d4e437e9842605c32b345"
 metafile = true
 
 [[files]]
@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-advancements.pw.toml"
-hash = "f2a3a436d5498e539230aa1936ac1009e4b140eda402b654b4a160431e7f517a"
+hash = "43627c4e6c2bc385bece430e0756d210c138f3ae2f9bd3247a94004a5d46afbf"
 metafile = true
 
 [[files]]
@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "edcb94bb9ab643f84a3014a2aafdf4f8e053ec501aea03dc086e2f3a1d2070fa"
+hash = "f1ab35a19ddf364c205b3a2c5d4857794663928e50c66b608ec5fd39d81bc8f4"
 metafile = true
 
 [[files]]
@@ -98,6 +98,11 @@ metafile = true
 [[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "1118c442785bcbb8cb36f710197eee9dc1fa6522aeb6fc3e605572046910ac42"
+metafile = true
+
+[[files]]
+file = "mods/cameraoverhaul.pw.toml"
+hash = "62974523ca1ea6c1bd364ccb14a80f277fc31a3e15192671e0dc45862f86ffa6"
 metafile = true
 
 [[files]]
@@ -112,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/cleardespawn.pw.toml"
-hash = "fdf0fb9507b144cc345dfb2db33eeb1a8b7c8284d171bac7c1e3d55996ca0a3b"
+hash = "8f3cefdf1343c17170f4da13654d1bd0e8cc5d2d228ca312f0b20645d0b68d36"
 metafile = true
 
 [[files]]
@@ -161,8 +166,18 @@ hash = "60227154805991427c34d2bdd6c5ec7d748b85f3c2d321470e2559050c0be44f"
 metafile = true
 
 [[files]]
+file = "mods/dripsounds-fabric.pw.toml"
+hash = "9f4aff837a2b41a6b25a0c98fedea7339b9127036fcca65d7f1b59a150d6df1c"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "c8c6a3893859d2f0e04ebf400c8ce8b47de21cfe6097996b5dde1561e92f3c80"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-music-updated.pw.toml"
+hash = "4ecc5efd481628e2b1aa752e552b133f00f991a894f187b2cc364c5506ce9ad8"
 metafile = true
 
 [[files]]
@@ -192,12 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/equipment-compare.pw.toml"
-hash = "3be8e2a0f6a01ef550f2154583b26b27a243e4f2a6697d8a433080ae05ff1e1b"
-metafile = true
-
-[[files]]
-file = "mods/exordium.pw.toml"
-hash = "4b3aa2a31aa0ab8c748561418200357b717f1ea9626672aea0653e862964a43f"
+hash = "2d18465bcf8ab71ad86a7bff68e128cad11892dd0fa36d329facd3c556f9cf6f"
 metafile = true
 
 [[files]]
@@ -226,11 +236,6 @@ hash = "8d20e4d5576548ca5ebeaed07a0f4d6122b0a2780320a04e54d255bb610b02a4"
 metafile = true
 
 [[files]]
-file = "mods/fastload.pw.toml"
-hash = "0e72ac12907f4fb5a499a459cc2c64f9225a0c77ee59e76c9360ff0d3479aea2"
-metafile = true
-
-[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "03e174cf691b52da20bd973b955fae6f3720d3d2120f9d6cc1de5fdf3180013c"
 metafile = true
@@ -242,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/hold-that-chunk.pw.toml"
-hash = "8847ebb401a474d65b2ffd00a226356e94791db3f5cf98505beb227e74298884"
+hash = "69c526913fc815e15fc30588e4d912cba8d79b3fc26bfec37d69b9c39733976f"
 metafile = true
 
 [[files]]
@@ -262,12 +267,12 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "b73d4f34c666ccc6785a6f27207e4658951a6935590f06178b30f51876f93264"
+hash = "3c3b2b624b7edb750a30262204adb2b7dcc4f6418b5a9db575fd9d1e43d7632d"
 metafile = true
 
 [[files]]
 file = "mods/item-highlighter.pw.toml"
-hash = "c5d5b857fa70cb5deed260054b9723dc8069635880061d5ba328e1eb684604bf"
+hash = "987ae1d7c8828792cda042d8152d2ce9e57846b64a30a84787d0e5b740eca5b4"
 metafile = true
 
 [[files]]
@@ -301,6 +306,16 @@ hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
 
 [[files]]
+file = "mods/logical-zoom.pw.toml"
+hash = "dba7faa78b25a920b33739145c7e78390d02d627be9d4c67352e6039accbd76b"
+metafile = true
+
+[[files]]
+file = "mods/make_bubbles_pop.pw.toml"
+hash = "6e84ea1f192786047219a69402ed423505dd4b7276cb9b3e0ebd883193e9740b"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "97ffbc7d0e4087777c5e3732780f01958f99d44c4f09fd534bbb8f239d4980a1"
 metafile = true
@@ -313,6 +328,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "e2a93bfe1d1e55657afd64a361b1d05929c8984332f1c39afd957eb7f88e9a62"
+metafile = true
+
+[[files]]
+file = "mods/morechathistory.pw.toml"
+hash = "f7e6fd74820c85464925a4c264cab137726a912a5e3d0e14a06d63b504734f2b"
 metafile = true
 
 [[files]]
@@ -337,7 +357,7 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
-hash = "5027329d763899c40db5e3f389cfb2262d61d0037668c331db0cec1491c585d8"
+hash = "b2b22e2a287fbec486a835fed442207607b6efd0a158f501ff8e8b70b456dc37"
 metafile = true
 
 [[files]]
@@ -348,6 +368,11 @@ metafile = true
 [[files]]
 file = "mods/raised.pw.toml"
 hash = "7843c9f45563df3fab3779f6771316b679d32694085d5626b2a060453fbe4e03"
+metafile = true
+
+[[files]]
+file = "mods/reacharound.pw.toml"
+hash = "b46363c37dd47302a9367f43e0a1e6d5bddf0fce5b968f48bc4e10463e9cf877"
 metafile = true
 
 [[files]]

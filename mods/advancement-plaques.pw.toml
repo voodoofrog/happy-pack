@@ -11,3 +11,8 @@ hash = "43b1210a1441e6579a1c1382f46bf445bb945d98"
 [update.modrinth]
 mod-id = "9NM0dXub"
 version = "NaXd1ujM"
+
+[option]
+optional = true
+description = "Replaces standard advancement toasts with fancy plaques."
+default = true

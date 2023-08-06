@@ -11,3 +11,8 @@ hash = "9eccd6a7b30acd0ec4ec54ba90c82b8f176596a0"
 [update.modrinth]
 mod-id = "Q2OqKxDG"
 version = "uHjK0raA"
+
+[option]
+optional = true
+description = "Improvements to the advancements screen."
+default = true

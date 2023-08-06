@@ -11,3 +11,8 @@ hash = "b1297986dd11f2c4e5ca5f220b6f1a054db18862"
 [update.modrinth]
 mod-id = "yoJJjRRE"
 version = "yvnQNe2a"
+
+[option]
+optional = true
+description = "Makes disappearing items flash to warn players to pick them up."
+default = true

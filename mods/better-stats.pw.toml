@@ -11,3 +11,8 @@ hash = "12fcb4fe11aa763afae26b8691de8cf8a4dcf82a"
 [update.modrinth]
 mod-id = "n6PXGAoM"
 version = "WLBCUkWu"
+
+[option]
+optional = true
+description = "Improves the statistics screen and makes it more useful."
+default = true

@@ -11,3 +11,8 @@ hash = "4673a4829738d5d6477d152a32cbdebd2e100dba"
 [update.modrinth]
 mod-id = "cVNW5lr6"
 version = "bEkFFVMh"
+
+[option]
+optional = true
+description = "Highlights newly picked-up items in your inventory."
+default = true
