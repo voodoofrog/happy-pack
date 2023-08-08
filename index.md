@@ -22,6 +22,7 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - FabricSkyboxes
 - FabricSkyBoxes Interop
 - FerriteCore
+- ImmediatelyFast
 - Inventory Essentials
 - Indium
 - Language Reload
@@ -105,7 +106,6 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - Dynamic Music Updated \* (Crashes on launch)
 - Exordium (doesn't render sign text in 1.20.1)
 - Fastload (Complaining that it doesn't like 1.20.1)
-- ImmediatelyFast
 - Smooth Boot (Fabric)
 
 ### Not available for 1.19.4 at the moment

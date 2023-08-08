@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "49a42a2456b0d0024bb61afdfeb279c51d581901fbd59a4d00ff772b206fefaa"
+hash = "b7c74a69eba0d7235dce4a31ac939f9c1a5ff09264977311af16d8580ae93ad1"
 metafile = true
 
 [[files]]
@@ -217,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes-interop.pw.toml"
-hash = "97a743edee2ff1be103f976bb56a23cef3718881da058ba4459f1f30c4cd3156"
+hash = "894d979ff26d8c7ee75d47a318f41873974a25f232c323980c0a82fa5999e93a"
 metafile = true
 
 [[files]]
@@ -247,12 +247,17 @@ metafile = true
 
 [[files]]
 file = "mods/iceberg.pw.toml"
-hash = "42e432f5ea263ae6f2f9bec2ce8fc17f56d074541c6080eee6741ea15f083899"
+hash = "5ec2ba54a0cdb76f316f4e8218f0d16f5bfd596dd7ab0a6483c0e2a603e9aa97"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "c6d8874cf9da3455fc3f339d758e4ed50a18f41339e74729bd73cf7de532860b"
 metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "27eb2a19aec099a40682db409e1dcecd8b5d3300e09b70a15d03b9b2c3e7e495"
+hash = "b3def581679abd846bc3d5b6de7ff0abd6ce4212fc17390e0ba8455b769c18d9"
 metafile = true
 
 [[files]]
@@ -292,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/lighty.pw.toml"
-hash = "3ec2a538b50898136b0d550300c6e0bfa1fe20bd34dc0cc3b0ac2a4abd082353"
+hash = "12b6c9b8eb5ff88b242fb42a50f403ec4c569d2f93d82db0d461f50ba03d21fb"
 metafile = true
 
 [[files]]
