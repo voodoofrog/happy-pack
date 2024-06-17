@@ -1,16 +1,16 @@
-name = "Eating Animation [Fabric]"
-filename = "eating-animation-1.9.4+1.20.jar"
+name = "Eating Animation"
+filename = "eating-animation-1.20.6+1.9.7.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/rUgZvGzi/versions/OcHlWpeQ/eating-animation-1.9.4%2B1.20.jar"
+url = "https://cdn.modrinth.com/data/rUgZvGzi/versions/bVtVrfh2/eating-animation-1.20.6%2B1.9.7.jar"
 hash-format = "sha1"
-hash = "5afcee5d75f086d85758e975b4a5964f1166c3cd"
+hash = "4e82f413cd609e1f55403d625153c2b037a4c886"
 
 [update]
 [update.modrinth]
 mod-id = "rUgZvGzi"
-version = "OcHlWpeQ"
+version = "bVtVrfh2"
 
 [option]
 optional = true
