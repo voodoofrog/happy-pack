@@ -7,14 +7,9 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 ### Base
 
 - Animatica
-- Amecs
 - bad packets
-- Better Beds
+- Better Biome Reblend
 - Boat Item View
-- CIT Resewn
-- continuity
-- Cull Less Leaves
-- Custom Splash Screen
 - Dynamic FPS
 - EasierChests
 - EntityCulling
@@ -27,8 +22,6 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - Indium
 - Language Reload
 - Lithium
-- Memory Leak Fix
-- Model Gap Fix
 - Mod Menu
 - MoreMcmeta
 - No Resource Pack Warnings
@@ -41,8 +34,6 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - Sodium
 - Sound Physics Remastered
 - Splasher!
-- Starlight (Fabric)
-- TieFix
 
 ### Optional (\* is selected by default)
 
@@ -50,18 +41,13 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - Advancement Plaques \*
 - AmbientSounds \*
 - AppleSkin \*
-- Better Advancements \*
 - Better Statistics Screen (Fabric/Forge) \*
-- Borderless Mining \*
 - Capes \*
 - CameraOverhaul \*
-- ClearDespawn \*
 - Craftify \*
 - Custom Stars \*
 - Detail Armor Bar \*
-- Drip Sounds (Fabric) \*
 - Eating Animation [Fabric] \*
-- EMI \*
 - Equipment Compare \*
 - Falling Leaves \*
 - Hold That Chunk \*
@@ -70,12 +56,8 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - Jade \*
 - JourneyMap \*
 - Lighty \*
-- Logical Zoom \*
-- Make Bubbles Pop \*
 - MoreChatHistory \*
 - Presence Footsteps \*
-- Reacharound \*
-- Simple Discord RPC \*
 - Stendhal \*
 - Tiny Item Animations \*
 - Visuality \*
@@ -96,6 +78,35 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - oωo (owo-lib)
 - YetAnotherConfigLib
 
+###  Not available for 1.20.6 at the moment (or crashing the game)
+
+- Amecs
+- Better Beds
+- Better Advancements \*
+- Borderless Mining \*
+- CIT Resewn
+- Cull Less Leaves
+- Custom Splash Screen
+- Memory Leak Fix
+- Model Gap Fix
+- Starlight (Fabric)
+- TieFix
+
+### Optional (\* is selected by default)
+
+- ClearDespawn \*
+- Drip Sounds (Fabric) \*
+- EMI \*
+- Logical Zoom \*
+- Make Bubbles Pop \*
+- Reacharound \*
+- Simple Discord RPC \*
+
+### Libraries
+
+- libIPN
+- continuity
+
 ###  Not available for 1.20.1 at the moment (or crashing the game)
 
 - Blanket
@@ -110,7 +121,6 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 
 ### Not available for 1.19.4 at the moment
 
-- Better Biome Blend
 - Biome Particle Weather \*
 - Clear Skies \*
 - thorium

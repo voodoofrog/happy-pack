@@ -1,12 +1,12 @@
 name = "Happy Pack"
 author = "HappyRads"
-version = "1.0.1"
+version = "1.206.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "373aeeaca3059b1c2cc2c364511f778a8ed936f252cc6625a5a49b03b7e94560"
+hash = "336a20b94190fc13282e2d3605b7d25c56b773c25c8b7c87472c411f3c969c0c"
 
 [versions]
 fabric = "0.15.11"
