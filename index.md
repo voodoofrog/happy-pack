@@ -6,7 +6,6 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 
 ### Base
 
-- Animatica
 - bad packets
 - Better Biome Reblend
 - Boat Item View
@@ -14,16 +13,12 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - EasierChests
 - EntityCulling
 - Entity Texture Features
-- FabricSkyboxes
-- FabricSkyBoxes Interop
 - FerriteCore
 - ImmediatelyFast
 - Inventory Essentials
-- Indium
 - Language Reload
 - Lithium
 - Mod Menu
-- MoreMcmeta
 - No Resource Pack Warnings
 - OptiGUI
 - Puzzle
@@ -32,7 +27,6 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - Simple Voice Chat
 - Sodium Extra
 - Sodium
-- Sound Physics Remastered
 - Splasher!
 
 ### Optional (\* is selected by default)
@@ -44,13 +38,11 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - Better Statistics Screen (Fabric/Forge) \*
 - Capes \*
 - CameraOverhaul \*
-- Craftify \*
 - Custom Stars \*
 - Detail Armor Bar \*
 - Eating Animation [Fabric] \*
 - Equipment Compare \*
 - Falling Leaves \*
-- Hold That Chunk \*
 - Iris \*
 - Item Highlighter \*
 - Jade \*
@@ -77,6 +69,20 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - libIPN
 - oωo (owo-lib)
 - YetAnotherConfigLib
+
+###  Not available for 1.21.4 at the moment (or crashing the game)
+
+- Animatica
+- FabricSkyboxes
+- FabricSkyBoxes Interop
+- Indium
+- MoreMcmeta
+- Sound Physics Remastered
+
+- Craftify \*
+- Hold That Chunk \*
+
+
 
 ###  Not available for 1.20.6 at the moment (or crashing the game)
 

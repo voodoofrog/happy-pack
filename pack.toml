@@ -1,13 +1,13 @@
 name = "Happy Pack"
 author = "HappyRads"
-version = "1.206.2"
+version = "1.206.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "336a20b94190fc13282e2d3605b7d25c56b773c25c8b7c87472c411f3c969c0c"
+hash = "8da0d727f1cc0b445268c4c84e0cbc9b051f2b7e66e1a7bac9498878cfa94ba3"
 
 [versions]
-fabric = "0.15.11"
-minecraft = "1.20.6"
+fabric = "0.16.10"
+minecraft = "1.21.4"
