@@ -71,6 +71,11 @@ hash = "abb6beba1f0db0a01d49c7b5136336e1380fb2dad2b9bf81031f3b0287ed3761"
 metafile = true
 
 [[files]]
+file = "mods/better-beds.pw.toml"
+hash = "1dc6556be6631361d581b4d8d1c0c6985aceef94692c6d65a71ccba8487d689f"
+metafile = true
+
+[[files]]
 file = "mods/better-stats.pw.toml"
 hash = "a5906f1258a52fbca5bdd773d7f02773e93853551f49411d34372e6470ca6f24"
 metafile = true
