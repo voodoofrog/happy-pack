@@ -6,69 +6,71 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 
 ### Base
 
-- bad packets
-- Better Biome Reblend
-- Boat Item View
-- Dynamic FPS
-- EasierChests
-- EntityCulling
+<!-- - bad packets -->
+<!-- - Better Biome Reblend -->
+<!-- - Boat Item View -->
+- Configurable Everything
+<!-- - Dynamic FPS -->
+<!-- - EasierChests -->
+<!-- - EntityCulling -->
 - Entity Texture Features
-- FerriteCore
-- ImmediatelyFast
+<!-- - FerriteCore -->
+<!-- - ImmediatelyFast -->
 - Inventory Essentials
-- Language Reload
-- Lithium
+<!-- - Language Reload -->
+<!-- - Lithium -->
 - Mod Menu
-- No Resource Pack Warnings
-- OptiGUI
-- Puzzle
-- Raised
+<!-- - No Resource Pack Warnings -->
+<!-- - OptiGUI -->
+-  Puzzle
+<!-- - Raised -->
 - Reese's Sodium Options
 - Simple Voice Chat
 - Sodium Extra
 - Sodium
-- Splasher!
+<!-- - Splasher! -->
 
 ### Optional (\* is selected by default)
 
-- 3D Skin Layers \*
-- Advancement Plaques \*
-- AmbientSounds \*
+<!-- - 3D Skin Layers \* -->
+<!-- - Advancement Plaques \* -->
+<!-- - AmbientSounds \* -->
 - AppleSkin \*
-- Better Statistics Screen (Fabric/Forge) \*
-- Capes \*
-- CameraOverhaul \*
-- Custom Stars \*
-- Detail Armor Bar \*
-- Eating Animation [Fabric] \*
-- Equipment Compare \*
+<!-- - Better Statistics Screen (Fabric/Forge) \* -->
+<!-- - Capes \* -->
+<!-- - CameraOverhaul \* -->
+<!-- - Custom Stars \* -->
+- Detail Armor Bar Reconstructed\*
+<!-- - Eating Animation [Fabric] \* -->
+<!-- - Equipment Compare \* -->
 - Falling Leaves \*
-- Iris \*
-- Item Highlighter \*
+- Iris Shaders \*
+<!-- - Item Highlighter \* -->
 - Jade \*
 - JourneyMap \*
 - Lighty \*
-- MoreChatHistory \*
+<!-- - MoreChatHistory \* -->
 - Presence Footsteps \*
-- Stendhal \*
-- Tiny Item Animations \*
-- Visuality \*
+<!-- - Stendhal \* -->
+<!-- - Tiny Item Animations \* -->
+<!-- - Visuality \* -->
 - Wavey Capes \*
 
 ### Libraries
 
-- Architectury API
+<!-- - Architectury API -->
 - Balm
 - Cloth Config API
-- CraterLib
+<!-- - CraterLib -->
 - CreativeCore
-- Iceberg (Libraries)
+<!-- - Iceberg (Libraries) -->
 - Fabric API
 - Fabric Language Kotlin
-- Forge Config API Port
-- libIPN
-- oωo (owo-lib)
-- YetAnotherConfigLib
+<!-- - Forge Config API Port -->
+<!-- - libIPN -->
+<!-- - oωo (owo-lib) -->
+<!-- - YetAnotherConfigLib -->
+- midnightlib
 
 ###  Not available for 1.21.4 at the moment (or crashing the game)
 

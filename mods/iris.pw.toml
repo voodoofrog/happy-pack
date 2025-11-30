@@ -1,18 +1,13 @@
 name = "Iris Shaders"
-filename = "iris-fabric-1.8.8+mc1.21.4.jar"
+filename = "iris-fabric-1.9.6+mc1.21.9.jar" 
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/YL57xq9U/versions/Ca054sTe/iris-fabric-1.8.8%2Bmc1.21.4.jar"
-hash-format = "sha1"
-hash = "54f7ab6450530bdca2ba44887b53458f78a256ef"
-
-[update]
-[update.modrinth]
-mod-id = "YL57xq9U"
-version = "Ca054sTe"
+url = "https://cdn.modrinth.com/data/YL57xq9U/versions/r1MZ1Bpv/iris-fabric-1.9.6%2Bmc1.21.9.jar" 
+hash-format = "sha256"
+hash = "5e97160c776136c1d1dbbf3fe706be068f8675a3ba58a41e06f55a7180c80129"
 
 [option]
 optional = true
-description = "A modern shaders mod for Minecraft intended to be compatible with existing OptiFine shader packs"
+description = "A modern shader pack loader for Minecraft intended to be compatible with existing OptiFine shader packs"
 default = true
