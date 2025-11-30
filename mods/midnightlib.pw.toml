@@ -1,0 +1,13 @@
+name = "MidnightLib"
+filename = "midnightlib-fabric-1.9.1+1.21.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/codAaoxh/versions/EQPKivgz/midnightlib-fabric-1.9.1%2B1.21.10.jar"
+hash-format = "sha1"
+hash = "3b8eb4ae181c71d157426342a608a55dc878f476"
+
+[update]
+[update.modrinth]
+mod-id = "codAaoxh"
+version = "EQPKivgz"

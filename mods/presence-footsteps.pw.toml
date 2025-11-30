@@ -1,18 +1,18 @@
 name = "Presence Footsteps"
-filename = "PresenceFootsteps-1.10.4+1.21.4.jar"
+filename = "PresenceFootsteps-1.12.2+1.21.10.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/rcTfTZr3/versions/W2ejzkCE/PresenceFootsteps-1.10.4%2B1.21.4.jar"
+url = "https://cdn.modrinth.com/data/rcTfTZr3/versions/kF47yag9/PresenceFootsteps-1.12.2%2B1.21.10.jar"
 hash-format = "sha1"
-hash = "09b5d229139016b41b846820470a9231080da25f"
+hash = "11a19777a180b99e087cf696e20cb6de618d711f"
 
 [update]
 [update.modrinth]
 mod-id = "rcTfTZr3"
-version = "W2ejzkCE"
+version = "kF47yag9"
 
 [option]
 optional = true
-description = "An overly complicated sound mod."
+description = "..An Overly complicated Sound Mod..."
 default = true

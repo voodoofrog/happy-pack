@@ -1,0 +1,26 @@
+{
+  "minecraft:glass": {
+    "variants": [
+      {
+        "texture": "minecraft:block/glass",
+        "connects_to": [
+          "minecraft:glass",
+          "minecraft:glass_pane"
+        ],
+        "conditions": {}
+      }
+    ]
+  },
+  "minecraft:glass_pane": {
+    "variants": [
+      {
+        "texture": "minecraft:block/glass",
+        "connects_to": [
+          "minecraft:glass",
+          "minecraft:glass_pane"
+        ],
+        "conditions": {}
+      }
+    ]
+  }
+}

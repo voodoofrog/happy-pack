@@ -1,0 +1,18 @@
+name = "Detail Armor Bar Reconstructed"
+filename = "DetailArmorBarReconstructed-4.4.0+1.21.10-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Si9Uim4y/versions/RpFmEzS7/DetailArmorBarReconstructed-4.4.0%2B1.21.10-fabric.jar"
+hash-format = "sha1"
+hash = "ad1b1db2a6f476f9fb6f0b95a481a3316850340c"
+
+[update]
+[update.modrinth]
+mod-id = "Si9Uim4y"
+version = "RpFmEzS7"
+
+[option]
+optional = true
+description = "More detail about armor in Armor bar!"
+default = true
