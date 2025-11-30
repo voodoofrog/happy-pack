@@ -33,13 +33,38 @@ file = "config/splasher/en_us.txt"
 hash = "fdb6795907fef54a8c26fbf866da9b44e7b31e639292e53502093acdf8c34344"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "c46783fcb333e7989d84c611de7e8fec95ef0e15d8a1db762cdaff8db53e4445"
+metafile = true
+
+[[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "4fc60bed2e227016e7027f79a4ee1ca4c1825d5698d2afbedfe63fe5f24639d0"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "e41f2ba64cc3364217a3f4f10ce034ea24b0a4795847b0013e64370e43a87307"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "240ecedc7fb969d0206e9de97a62125e6efb0bc388fab3d83c4d2774f610c353"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "d1b771355272dd080b00c13b035a972a8fec5234033c0166252db90b8bfee0ac"
+metafile = true
+
+[[files]]
+file = "mods/better-stats.pw.toml"
+hash = "cc244b0378f73dd31201cb7e3bbb457c90ff32bd71415a39b9991418ac4390d7"
+metafile = true
+
+[[files]]
+file = "mods/capes.pw.toml"
+hash = "b21f08b384c084e21c07cd2cd4960b498d39b65038fb0ee16793e3662120be58"
 metafile = true
 
 [[files]]
@@ -149,7 +174,12 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "0aeefc1518e0f4237be33f90da39cccea4e5c0dcab94fa68fb7a78cee180a6b4"
+hash = "50ca0e5deda0fb77d4f230e0f61692432968c1ae2a8ee3188ba9a9c475921fc0"
+metafile = true
+
+[[files]]
+file = "mods/tcdcommons.pw.toml"
+hash = "110de4d87ccb3fe2799285e17b9fa723ecace1c8f16ee762461b03b906536b9b"
 metafile = true
 
 [[files]]

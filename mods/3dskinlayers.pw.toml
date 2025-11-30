@@ -1,0 +1,18 @@
+name = "3D Skin Layers"
+filename = "skinlayers3d-fabric-1.9.2-mc1.21.10.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/Uv7uC5kA/skinlayers3d-fabric-1.9.2-mc1.21.10.jar"
+hash-format = "sha1"
+hash = "91b899fabeda6102f76d00f0757498defc1019f3"
+
+[update]
+[update.modrinth]
+mod-id = "zV5r3pPn"
+version = "Uv7uC5kA"
+
+[option]
+optional = true
+description = "Render the player skin layer in 3d!"
+default = true

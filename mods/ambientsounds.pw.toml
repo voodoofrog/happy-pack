@@ -1,0 +1,18 @@
+name = "AmbientSounds"
+filename = "AmbientSounds_FABRIC_v6.3.1_mc1.21.10.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/fM515JnW/versions/9UZcOpFp/AmbientSounds_FABRIC_v6.3.1_mc1.21.10.jar"
+hash-format = "sha1"
+hash = "f1e7c239202077b893053a9a2659bc370f06d3ab"
+
+[update]
+[update.modrinth]
+mod-id = "fM515JnW"
+version = "9UZcOpFp"
+
+[option]
+optional = true
+description = "Adds a rich ambience to the minecraft world."
+default = true
