@@ -9,7 +9,6 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 <!-- - bad packets -->
 <!-- - Better Biome Reblend -->
 <!-- - Boat Item View -->
-- Configurable Everything
 <!-- - Dynamic FPS -->
 <!-- - EasierChests -->
 <!-- - EntityCulling -->
@@ -32,12 +31,12 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 
 ### Optional (\* is selected by default)
 
-<!-- - 3D Skin Layers \* -->
+- 3D Skin Layers \*
 <!-- - Advancement Plaques \* -->
-<!-- - AmbientSounds \* -->
+- AmbientSounds \*
 - AppleSkin \*
 <!-- - Better Statistics Screen (Fabric/Forge) \* -->
-<!-- - Capes \* -->
+- Capes \*
 <!-- - CameraOverhaul \* -->
 <!-- - Custom Stars \* -->
 - Detail Armor Bar Reconstructed\*
@@ -52,13 +51,14 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 <!-- - MoreChatHistory \* -->
 - Presence Footsteps \*
 <!-- - Stendhal \* -->
+- Sound Physics Remastered
 <!-- - Tiny Item Animations \* -->
 <!-- - Visuality \* -->
 - Wavey Capes \*
 
 ### Libraries
 
-<!-- - Architectury API -->
+- Architectury API
 - Balm
 - Cloth Config API
 <!-- - CraterLib -->
@@ -71,6 +71,8 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 <!-- - oωo (owo-lib) -->
 <!-- - YetAnotherConfigLib -->
 - midnightlib
+- TCDCommons API
+
 
 ###  Not available for 1.21.4 at the moment (or crashing the game)
 
@@ -113,7 +115,7 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 ### Libraries
 
 - libIPN
-- continuity
+<!-- - continuity -->
 
 ###  Not available for 1.20.1 at the moment (or crashing the game)
 

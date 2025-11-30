@@ -1,0 +1,18 @@
+name = "Capes"
+filename = "capes-1.5.9+1.21.9-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/89Wsn8GD/versions/HG7qn2PL/capes-1.5.9%2B1.21.9-fabric.jar"
+hash-format = "sha1"
+hash = "049ded33ebf0453fd18ce91debe741d231afca3f"
+
+[update]
+[update.modrinth]
+mod-id = "89Wsn8GD"
+version = "HG7qn2PL"
+
+[option]
+optional = true
+description = "A Fabric and Forge mod that lets you use capes from Optifine, LabyMod, and the MinecraftCapes Mod."
+default = true
