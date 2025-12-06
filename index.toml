@@ -53,13 +53,38 @@ hash = "240ecedc7fb969d0206e9de97a62125e6efb0bc388fab3d83c4d2774f610c353"
 metafile = true
 
 [[files]]
+file = "mods/badpackets.pw.toml"
+hash = "ce06a9ea5b06d4f60e0ea1f94109768948dcbb8cd3a9f5305445ea6b6683798d"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "d1b771355272dd080b00c13b035a972a8fec5234033c0166252db90b8bfee0ac"
 metafile = true
 
 [[files]]
+file = "mods/bbrb.pw.toml"
+hash = "385e222432de91ed343359ac24e7491f32746b8401e2f1e6678cb9addcfca7aa"
+metafile = true
+
+[[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "1ce32dfd577b653d5263b9f06e24b152d4ca5b178801b1a52df5a797a8707a32"
+metafile = true
+
+[[files]]
 file = "mods/better-stats.pw.toml"
 hash = "cc244b0378f73dd31201cb7e3bbb457c90ff32bd71415a39b9991418ac4390d7"
+metafile = true
+
+[[files]]
+file = "mods/boat-item-view.pw.toml"
+hash = "7d5e4f2c8d4f2d1ca761c182d54a98c57ad808102b28c370dfe818352de0b7df"
+metafile = true
+
+[[files]]
+file = "mods/cameraoverhaul.pw.toml"
+hash = "102c5ad6563605c60f313044be5493208ab230b1653b3f14571e08c050cdf151"
 metafile = true
 
 [[files]]
@@ -83,6 +108,21 @@ hash = "f6920294f3a0a0a22053e8cdd2d5d73d3d3063200f701ca55936daae73152e44"
 metafile = true
 
 [[files]]
+file = "mods/dripsounds.pw.toml"
+hash = "5ba4832692611cbaa171a142ffde6955106377e149b9c7fc87544bc200047862"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "f6cd74197dcfcc06faf2c75aafabf384296e841e5456de54550264fe86229dc5"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "7286129334ad60fb0e9d5f99ff38fc4fa3073e03c0f7051f5917adc3abea9efc"
+metafile = true
+
+[[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "786673d99fd07e777cc2819514c61bb228930bd245e14e2f985423c77a27ac92"
 metafile = true
@@ -100,6 +140,16 @@ metafile = true
 [[files]]
 file = "mods/fallingleaves.pw.toml"
 hash = "b548e077d7f9c77a68dca16a40efdfe8e3c9e7b28f3162a91f4b0b53dab12336"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "4eb0060a2288f8f0f97e87eec65493e3e21f1f81ce6a6343e54ed296aadee957"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "0d3fc40cfb3115e5f7df097d74f82806800ed051909b808fb74e28b89cb1c235"
 metafile = true
 
 [[files]]
@@ -133,13 +183,48 @@ hash = "9f75561621ce420c3aeedfd4260cf0ec504c3cea267a1623f40c142f605a855a"
 metafile = true
 
 [[files]]
+file = "mods/lithium.pw.toml"
+hash = "5787b1deb7975af608901df0bf16b1e5de2452c98808f6a205c35aaa83e9f56a"
+metafile = true
+
+[[files]]
+file = "mods/make_bubbles_pop.pw.toml"
+hash = "d41f14c378371c5f7ab214d00359f2b81242e0a66ff78c16667e6a65f7954dbe"
+metafile = true
+
+[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "9df913674f1ca1b37098587387f62e69df86f3abe50d9c506cf6cb518a6e1228"
 metafile = true
 
 [[files]]
+file = "mods/modelfix.pw.toml"
+hash = "0a4f308e5c80c7eca2c1ef1117fd23731523b0e4b7c93bf298165af27af93a60"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "9cb7b03b45eb9eede9748fd6dfb4de9396378ce7883da6d0da657675c7aa060d"
+metafile = true
+
+[[files]]
+file = "mods/morechathistory.pw.toml"
+hash = "90f207724a47d6b32f45c6a53da2539f544df944709418761ec8ede01a401a47"
+metafile = true
+
+[[files]]
+file = "mods/no-resource-pack-warnings.pw.toml"
+hash = "3f87106ee8b902407ea8061c01fb65878b250fc17726dda11113e0efd070844e"
+metafile = true
+
+[[files]]
+file = "mods/optigui.pw.toml"
+hash = "c98e6901bbb03c99ff54f30b8b888d4e787b0a55867d51ab368d35374898b234"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "5a8266ecf742e57419d77b2ab0a55697243a7f6ea68bf61f3ec1b0e059dec7ed"
 metafile = true
 
 [[files]]
@@ -163,6 +248,11 @@ hash = "0e0970dafc9680fba4dc73434baad6aa7dee91ab4994f33b2493ea5b4c59931d"
 metafile = true
 
 [[files]]
+file = "mods/smooth-boot.pw.toml"
+hash = "869ad883730185898efb39f9dacc14df55d7e56df1632e8c110e6bbf7db98ee4"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "5e28a5bc87a799a03a72e641c1118b7d9ba955dceb70e2427fe0c2b15ed5186e"
 metafile = true
@@ -174,12 +264,17 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "50ca0e5deda0fb77d4f230e0f61692432968c1ae2a8ee3188ba9a9c475921fc0"
+hash = "902baad9c216662293ddd939cf02941ba97910f7c3a6d9648a07c4d378710075"
 metafile = true
 
 [[files]]
 file = "mods/tcdcommons.pw.toml"
 hash = "110de4d87ccb3fe2799285e17b9fa723ecace1c8f16ee762461b03b906536b9b"
+metafile = true
+
+[[files]]
+file = "mods/visuality.pw.toml"
+hash = "4633dde9dfcc18f5c0f551b7cac47769dc17bd874380e47d4e40e2b58d62d630"
 metafile = true
 
 [[files]]
@@ -189,7 +284,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/HappyPack/assets/minecraft/texts/splashes.txt"
-hash = "710f5de9aa106d37d9de8704cabf288420b2f8330fa35a129125f9a73c8adf39"
+hash = "6278eec3f68f006039c1a5dbbc4932ae403c01a7e379313fe9b4423a807121d7"
 
 [[files]]
 file = "resourcepacks/HappyPack/assets/minecraft/textures/gui/title/background/panorama_overlay.png"

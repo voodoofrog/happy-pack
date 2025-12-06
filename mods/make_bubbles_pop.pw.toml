@@ -1,0 +1,13 @@
+name = "Make Bubbles Pop"
+filename = "make_bubbles_pop-0.3.2-fabric-mc1.21.9-1.21.10.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/gPCdW0Wr/versions/v9TIiXcG/make_bubbles_pop-0.3.2-fabric-mc1.21.9-1.21.10.jar"
+hash-format = "sha1"
+hash = "fc3a1b1e336e56656556a8308007441ef9522380"
+
+[update]
+[update.modrinth]
+mod-id = "gPCdW0Wr"
+version = "v9TIiXcG"
