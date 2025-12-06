@@ -7,20 +7,21 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 ### Base
 
 <!-- - bad packets -->
-<!-- - Better Biome Reblend -->
-<!-- - Boat Item View -->
-<!-- - Dynamic FPS -->
+- Better Biome Reblend
+- Better 3D Beds
+- Boat Item View
+- Dynamic FPS
 <!-- - EasierChests -->
-<!-- - EntityCulling -->
+- EntityCulling
 - Entity Texture Features
-<!-- - FerriteCore -->
-<!-- - ImmediatelyFast -->
+- FerriteCore
+- ImmediatelyFast
 - Inventory Essentials
 <!-- - Language Reload -->
-<!-- - Lithium -->
+- Lithium
 - Mod Menu
-<!-- - No Resource Pack Warnings -->
-<!-- - OptiGUI -->
+- No Resource Pack Warnings
+- OptiGUI
 -  Puzzle
 <!-- - Raised -->
 - Reese's Sodium Options
@@ -28,6 +29,11 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - Sodium Extra
 - Sodium
 <!-- - Splasher! -->
+- Model Gap Fix
+- Sound Physics Remastered
+- Drip Sounds (Fabric) \*
+- Make Bubbles Pop
+- Smooth Boot (Fabric)
 
 ### Optional (\* is selected by default)
 
@@ -35,9 +41,9 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 <!-- - Advancement Plaques \* -->
 - AmbientSounds \*
 - AppleSkin \*
-<!-- - Better Statistics Screen (Fabric/Forge) \* -->
+- Better Statistics Screen (Fabric/Forge) \*
 - Capes \*
-<!-- - CameraOverhaul \* -->
+- CameraOverhaul \*
 <!-- - Custom Stars \* -->
 - Detail Armor Bar Reconstructed\*
 <!-- - Eating Animation [Fabric] \* -->
@@ -48,12 +54,12 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - Jade \*
 - JourneyMap \*
 - Lighty \*
-<!-- - MoreChatHistory \* -->
+- MoreChatHistory \*
 - Presence Footsteps \*
 <!-- - Stendhal \* -->
 - Sound Physics Remastered
 <!-- - Tiny Item Animations \* -->
-<!-- - Visuality \* -->
+- Visuality \*
 - Wavey Capes \*
 
 ### Libraries
@@ -68,7 +74,7 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - Fabric Language Kotlin
 <!-- - Forge Config API Port -->
 <!-- - libIPN -->
-<!-- - oωo (owo-lib) -->
+- oωo (owo-lib)
 <!-- - YetAnotherConfigLib -->
 - midnightlib
 - TCDCommons API
@@ -80,8 +86,7 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - FabricSkyboxes
 - FabricSkyBoxes Interop
 - Indium
-- MoreMcmeta
-- Sound Physics Remastered
+
 
 - Craftify \*
 - Hold That Chunk \*
@@ -98,17 +103,17 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - Cull Less Leaves
 - Custom Splash Screen
 - Memory Leak Fix
-- Model Gap Fix
+
 - Starlight (Fabric)
 - TieFix
 
 ### Optional (\* is selected by default)
 
 - ClearDespawn \*
-- Drip Sounds (Fabric) \*
+<!-- - Drip Sounds (Fabric) \* -->
 - EMI \*
 - Logical Zoom \*
-- Make Bubbles Pop \*
+<!-- - Make Bubbles Pop \* -->
 - Reacharound \*
 - Simple Discord RPC \*
 
@@ -127,7 +132,7 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - Dynamic Music Updated \* (Crashes on launch)
 - Exordium (doesn't render sign text in 1.20.1)
 - Fastload (Complaining that it doesn't like 1.20.1)
-- Smooth Boot (Fabric)
+<!-- - Smooth Boot (Fabric) -->
 
 ### Not available for 1.19.4 at the moment
 
