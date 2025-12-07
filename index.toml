@@ -83,6 +83,11 @@ hash = "7d5e4f2c8d4f2d1ca761c182d54a98c57ad808102b28c370dfe818352de0b7df"
 metafile = true
 
 [[files]]
+file = "mods/borderless-fullscreen.pw.toml"
+hash = "ce3731c0d51322d7e5c0cf10252bb6dbb71a3d9293ad737b1e4c6717f0d70f4a"
+metafile = true
+
+[[files]]
 file = "mods/cameraoverhaul.pw.toml"
 hash = "102c5ad6563605c60f313044be5493208ab230b1653b3f14571e08c050cdf151"
 metafile = true
@@ -90,6 +95,11 @@ metafile = true
 [[files]]
 file = "mods/capes.pw.toml"
 hash = "b21f08b384c084e21c07cd2cd4960b498d39b65038fb0ee16793e3662120be58"
+metafile = true
+
+[[files]]
+file = "mods/chunks-fade-in.pw.toml"
+hash = "b24dccc7ff5a1488dbc82c4073a799b15aeca12032d9d2764cb5cdce1cdfe353"
 metafile = true
 
 [[files]]
@@ -109,7 +119,7 @@ metafile = true
 
 [[files]]
 file = "mods/dripsounds.pw.toml"
-hash = "5ba4832692611cbaa171a142ffde6955106377e149b9c7fc87544bc200047862"
+hash = "1c6adb3d58819762fe47b3037f2ff082a8791b22afbadd8da9fc8f2ec98d99f5"
 metafile = true
 
 [[files]]
@@ -264,7 +274,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "902baad9c216662293ddd939cf02941ba97910f7c3a6d9648a07c4d378710075"
+hash = "50ca0e5deda0fb77d4f230e0f61692432968c1ae2a8ee3188ba9a9c475921fc0"
 metafile = true
 
 [[files]]

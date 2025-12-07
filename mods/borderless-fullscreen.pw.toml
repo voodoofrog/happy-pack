@@ -1,0 +1,18 @@
+name = "Borderless Fullscreen"
+filename = "BorderlessFullscreen-v2.2.1-mc1.21.9.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/UIexcMP1/versions/tD2fz6dI/BorderlessFullscreen-v2.2.1-mc1.21.9.jar"
+hash-format = "sha1"
+hash = "f4b319dcc20530496e7755fb925c5babdefe4e9f"
+
+[update]
+[update.modrinth]
+mod-id = "UIexcMP1"
+version = "tD2fz6dI"
+
+[option]
+optional = true
+description = "This mod replaces Minecraft's fullscreen mode with a more customizable one"
+default = true

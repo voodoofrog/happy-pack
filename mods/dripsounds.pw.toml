@@ -11,3 +11,8 @@ hash = "2e3d5b4dedfbe98cca53cd9e23f61aec1679ef6b"
 [update.modrinth]
 mod-id = "T8MMXTpr"
 version = "Qd4Gecqi"
+
+[option]
+optional = true
+description = "Adds sounds for drip particles landing & settings for block particles"
+default = true

@@ -11,3 +11,8 @@ hash = "d769c66cfc403d2efc25a25867e68e923bdb2e42"
 [update.modrinth]
 mod-id = "qyVF9oeo"
 version = "pDo1ElL2"
+
+[option]
+optional = true
+description = "A Minecraft mod that provides realistic sound attenuation, reverberation, and absorption through blocks."
+default = true

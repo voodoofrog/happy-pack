@@ -1,0 +1,18 @@
+name = "Chunks fade in"
+filename = "chunksfadein-fabric-3.0.13-1.21.9.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/JaNmzvA8/versions/PZvHr44h/chunksfadein-fabric-3.0.13-1.21.9.jar"
+hash-format = "sha1"
+hash = "8ae3620d02fed7bb713fc5da205c2e2235848d44"
+
+[update]
+[update.modrinth]
+mod-id = "JaNmzvA8"
+version = "PZvHr44h"
+
+[option]
+optional = true
+description = "A simple mod that adds fade-in animation for chunks!"
+default = true

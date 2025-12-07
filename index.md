@@ -8,7 +8,7 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 
 <!-- - bad packets -->
 - Better Biome Reblend
-- Better 3D Beds
+<!-- - Better 3D Beds -->
 - Boat Item View
 - Dynamic FPS
 <!-- - EasierChests -->
@@ -30,8 +30,6 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - Sodium
 <!-- - Splasher! -->
 - Model Gap Fix
-- Sound Physics Remastered
-- Drip Sounds (Fabric) \*
 - Make Bubbles Pop
 - Smooth Boot (Fabric)
 
@@ -42,10 +40,13 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - AmbientSounds \*
 - AppleSkin \*
 - Better Statistics Screen (Fabric/Forge) \*
+- Borderless Fullscreen \*
 - Capes \*
 - CameraOverhaul \*
+- Chunks fade in \*
 <!-- - Custom Stars \* -->
 - Detail Armor Bar Reconstructed\*
+- Drip Sounds (Fabric) \*
 <!-- - Eating Animation [Fabric] \* -->
 <!-- - Equipment Compare \* -->
 - Falling Leaves \*
@@ -57,7 +58,7 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - MoreChatHistory \*
 - Presence Footsteps \*
 <!-- - Stendhal \* -->
-- Sound Physics Remastered
+- Sound Physics Remastered \*
 <!-- - Tiny Item Animations \* -->
 - Visuality \*
 - Wavey Capes \*
@@ -69,6 +70,7 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - Cloth Config API
 <!-- - CraterLib -->
 - CreativeCore
+<!-- - continuity -->
 <!-- - Iceberg (Libraries) -->
 - Fabric API
 - Fabric Language Kotlin
@@ -80,7 +82,7 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 - TCDCommons API
 
 
-###  Not available for 1.21.4 at the moment (or crashing the game)
+<!-- ###  Not available for 1.21.4 at the moment (or crashing the game)
 
 - Animatica
 - FabricSkyboxes
@@ -89,11 +91,11 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 
 
 - Craftify \*
-- Hold That Chunk \*
+- Hold That Chunk \* -->
 
 
 
-###  Not available for 1.20.6 at the moment (or crashing the game)
+<!-- ###  Not available for 1.20.6 at the moment (or crashing the game)
 
 - Amecs
 - Better Beds
@@ -110,32 +112,28 @@ Download the pack [here](/Happy%20Pack.zip) and import it into Prism Launcher/Mu
 ### Optional (\* is selected by default)
 
 - ClearDespawn \*
-<!-- - Drip Sounds (Fabric) \* -->
 - EMI \*
 - Logical Zoom \*
-<!-- - Make Bubbles Pop \* -->
 - Reacharound \*
-- Simple Discord RPC \*
 
 ### Libraries
 
-- libIPN
+- libIPN -->
 <!-- - continuity -->
-
+<!-- 
 ###  Not available for 1.20.1 at the moment (or crashing the game)
 
 - Blanket
 - Bobby \* (Crashing the game)
-- Chunks fade in \* (Doesn't work with Sodium 0.5.0 yet)
 - Custom Entity Models
 - DashLoader (crashes game on second load)
 - Dynamic Music Updated \* (Crashes on launch)
 - Exordium (doesn't render sign text in 1.20.1)
-- Fastload (Complaining that it doesn't like 1.20.1)
+- Fastload (Complaining that it doesn't like 1.20.1) -->
 <!-- - Smooth Boot (Fabric) -->
-
+<!-- 
 ### Not available for 1.19.4 at the moment
 
 - Biome Particle Weather \*
 - Clear Skies \*
-- thorium
+- thorium -->
